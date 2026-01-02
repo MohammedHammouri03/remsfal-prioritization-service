@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: remsfal-prioritization-service
+
+  kafka:
+    bootstrap-servers: ${KAFKA_BOOTSTRAP_SERVERS:localhost:39092}
+
+remsfal:
+  kafka:
+    topics:
+      in: ${TOPIC_IN:tickets.incoming}
+      out: ${TOPIC_OUT:tickets.prioritized}
+    consumer-group: ${CONSUMER_GROUP:remsfal-prioritization-service}

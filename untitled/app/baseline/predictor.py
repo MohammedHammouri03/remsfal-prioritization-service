@@ -1,52 +1,103 @@
 import os
+from pathlib import Path
+from typing import Dict, Tuple, Optional
+
 import joblib
 
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-MODEL_DIR = os.path.join(BASE_DIR, "models", "baseline")
+class BaselinePredictor:
+    """
+    Loads and runs the TF-IDF + LogisticRegression baseline.
+    Expects artifacts:
+      - tfidf_vectorizer.joblib
+      - logreg_model.joblib
 
-VEC_PATH = os.path.join(MODEL_DIR, "tfidf_vectorizer.joblib")
-MODEL_PATH = os.path.join(MODEL_DIR, "logreg_model.joblib")
+    Default location (relative to this file):
+      <project_root>/app/models/baseline/
+    where <project_root> is the folder that contains the 'app/' directory.
+    """
 
-TITLE = "Heizung komplett ausgefallen"
-DESCRIPTION = "Seit heute Morgen funktioniert die Heizung in der gesamten Wohnung nicht mehr."
+    def __init__(self):
+        # Resolve project root robustly, independent of where uvicorn is started.
+        # This file is: <project_root>/app/baseline/predictor.py
+        self.project_root = Path(__file__).resolve().parents[2]  # -> <project_root>/app/.. = <project_root>
+        default_dir = self.project_root / "app" / "models" / "baseline"
 
-TEXT = f"{TITLE}\n{DESCRIPTION}".strip()
+        # Allow overriding via env var (useful for Docker / CI).
+        self.baseline_dir = Path(os.getenv("BASELINE_DIR", str(default_dir))).resolve()
 
-def main():
-    # --- Check Artefakte ---
-    if not os.path.exists(VEC_PATH):
-        raise FileNotFoundError(f"Vectorizer not found: {VEC_PATH}")
+        self.vec_path = self.baseline_dir / "tfidf_vectorizer.joblib"
+        self.model_path = self.baseline_dir / "logreg_model.joblib"
 
-    if not os.path.exists(MODEL_PATH):
-        raise FileNotFoundError(f"Model not found: {MODEL_PATH}")
+        self.vectorizer = None
+        self.model = None
 
-    # --- Laden ---
-    print("🔹 Loading vectorizer...")
-    vectorizer = joblib.load(VEC_PATH)
+        self.model_version = os.getenv("BASELINE_MODEL_VERSION", "baseline-v1")
 
-    print("🔹 Loading model...")
-    model = joblib.load(MODEL_PATH)
+        # Optional debug logging
+        self.debug = os.getenv("BASELINE_DEBUG", "false").lower() in ("1", "true", "yes")
 
-    # --- Transformieren ---
-    X = vectorizer.transform([TEXT])
+    def _log(self, msg: str) -> None:
+        if self.debug:
+            print(f"[BaselinePredictor] {msg}")
 
-    # --- Vorhersage ---
-    proba = model.predict_proba(X)[0]
-    idx = int(proba.argmax())
+    def load(self) -> None:
+        """
+        Loads artifacts if present. If not present, keeps predictor in "not ready" state.
+        The FastAPI service can still start; /health will show baselineReady=false.
+        """
+        self._log(f"Project root: {self.project_root}")
+        self._log(f"Baseline dir: {self.baseline_dir}")
+        self._log(f"Vectorizer path: {self.vec_path} (exists={self.vec_path.exists()})")
+        self._log(f"Model path: {self.model_path} (exists={self.model_path.exists()})")
 
-    predicted_label = model.classes_[idx]
-    confidence = float(proba[idx])
+        if not self.vec_path.exists() or not self.model_path.exists():
+            self.vectorizer = None
+            self.model = None
+            return
 
-    # --- Ausgabe ---
-    print("\n🧪 BASELINE PREDICTION RESULT")
-    print("--------------------------------")
-    print(f"Text:\n{TEXT}\n")
-    print(f"Predicted priority: {predicted_label}")
-    print(f"Confidence score:   {confidence:.4f}")
-    print(f"All class probs:")
-    for label, p in zip(model.classes_, proba):
-        print(f"  {label:6s}: {p:.4f}")
+        self.vectorizer = joblib.load(self.vec_path)
+        self.model = joblib.load(self.model_path)
+        self._log("✅ Baseline artifacts loaded successfully.")
 
-if __name__ == "__main__":
-    main()
+    def is_ready(self) -> bool:
+        return self.vectorizer is not None and self.model is not None
+
+    def predict(self, text: str) -> Tuple[str, float, str]:
+        """
+        Returns:
+          (priority_label, score, model_version)
+
+        priority_label in {"HIGH","MEDIUM","LOW"}
+        score = max predicted probability (0..1)
+        """
+        if not self.is_ready():
+            raise RuntimeError(
+                "Baseline model not loaded. "
+                f"Expected artifacts at: {self.vec_path} and {self.model_path} "
+                "(or set BASELINE_DIR env var)."
+            )
+
+        X = self.vectorizer.transform([text])
+        proba = self.model.predict_proba(X)[0]
+        idx = int(proba.argmax())
+
+        label = str(self.model.classes_[idx])
+        score = float(proba[idx])
+        return label, score, self.model_version
+
+    def predict_proba_map(self, text: str) -> Dict[str, float]:
+        """
+        Convenience method: returns a dict of label -> probability.
+        Useful for debugging and evaluation plots.
+        """
+        if not self.is_ready():
+            raise RuntimeError(
+                "Baseline model not loaded. "
+                f"Expected artifacts at: {self.vec_path} and {self.model_path} "
+                "(or set BASELINE_DIR env var)."
+            )
+
+        X = self.vectorizer.transform([text])
+        proba = self.model.predict_proba(X)[0]
+        return {str(label): float(p) for label, p in zip(self.model.classes_, proba)}

@@ -1,35 +1,52 @@
 import os
 import joblib
-from typing import Tuple
 
-BASELINE_DIR = os.getenv("BASELINE_DIR", "models/baseline")
 
-class BaselinePredictor:
-    def __init__(self):
-        self.vectorizer = None
-        self.model = None
-        self.model_version = os.getenv("BASELINE_MODEL_VERSION", "baseline-v1")
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+MODEL_DIR = os.path.join(BASE_DIR, "models", "baseline")
 
-    def load(self):
-        vec_path = os.path.join(BASELINE_DIR, "tfidf_vectorizer.joblib")
-        model_path = os.path.join(BASELINE_DIR, "logreg_model.joblib")
+VEC_PATH = os.path.join(MODEL_DIR, "tfidf_vectorizer.joblib")
+MODEL_PATH = os.path.join(MODEL_DIR, "logreg_model.joblib")
 
-        if not os.path.exists(vec_path) or not os.path.exists(model_path):
-            return
+TITLE = "Heizung komplett ausgefallen"
+DESCRIPTION = "Seit heute Morgen funktioniert die Heizung in der gesamten Wohnung nicht mehr."
 
-        self.vectorizer = joblib.load(vec_path)
-        self.model = joblib.load(model_path)
+TEXT = f"{TITLE}\n{DESCRIPTION}".strip()
 
-    def is_ready(self) -> bool:
-        return self.vectorizer is not None and self.model is not None
+def main():
+    # --- Check Artefakte ---
+    if not os.path.exists(VEC_PATH):
+        raise FileNotFoundError(f"Vectorizer not found: {VEC_PATH}")
 
-    def predict(self, text: str) -> Tuple[str, float, str]:
-        if not self.is_ready():
-            raise RuntimeError("Baseline model not loaded. Train and place artifacts in models/baseline/")
+    if not os.path.exists(MODEL_PATH):
+        raise FileNotFoundError(f"Model not found: {MODEL_PATH}")
 
-        X = self.vectorizer.transform([text])
-        proba = self.model.predict_proba(X)[0]
-        idx = int(proba.argmax())
-        label = self.model.classes_[idx]
-        score = float(proba[idx])
-        return str(label), score, self.model_version
+    # --- Laden ---
+    print("🔹 Loading vectorizer...")
+    vectorizer = joblib.load(VEC_PATH)
+
+    print("🔹 Loading model...")
+    model = joblib.load(MODEL_PATH)
+
+    # --- Transformieren ---
+    X = vectorizer.transform([TEXT])
+
+    # --- Vorhersage ---
+    proba = model.predict_proba(X)[0]
+    idx = int(proba.argmax())
+
+    predicted_label = model.classes_[idx]
+    confidence = float(proba[idx])
+
+    # --- Ausgabe ---
+    print("\n🧪 BASELINE PREDICTION RESULT")
+    print("--------------------------------")
+    print(f"Text:\n{TEXT}\n")
+    print(f"Predicted priority: {predicted_label}")
+    print(f"Confidence score:   {confidence:.4f}")
+    print(f"All class probs:")
+    for label, p in zip(model.classes_, proba):
+        print(f"  {label:6s}: {p:.4f}")
+
+if __name__ == "__main__":
+    main()

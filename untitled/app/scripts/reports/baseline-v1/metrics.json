@@ -1,0 +1,38 @@
+{
+  "modelVersion": "baseline-v1",
+  "trainedAt": "2026-01-03T13:42:40.315310+00:00",
+  "dataPath": "/Applications/Projects/remsfal-prioritization-service/remsfal-prioritization-service/untitled/app/data/train.csv",
+  "rowsTotal": 2580,
+  "split": {
+    "train": 2064,
+    "test": 516
+  },
+  "metrics": {
+    "accuracy": 0.8643410852713178,
+    "f1_macro": 0.8590370370370369
+  },
+  "per_class": {
+    "HIGH": {
+      "f1": 0.9166666666666666,
+      "precision": 0.9166666666666666,
+      "recall": 0.9166666666666666
+    },
+    "MEDIUM": {
+      "f1": 0.816,
+      "precision": 0.8095238095238095,
+      "recall": 0.8225806451612904
+    },
+    "LOW": {
+      "f1": 0.8444444444444444,
+      "precision": 0.8558558558558559,
+      "recall": 0.8333333333333334
+    }
+  },
+  "latency_model_only": {
+    "p50_ms": 0.055582961067557335,
+    "p95_ms": 0.059723504818975925,
+    "p99_ms": 0.06581262452527878,
+    "mean_ms": 0.05616562906652689,
+    "n": 300
+  }
+}

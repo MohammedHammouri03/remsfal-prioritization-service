@@ -1,6 +1,6 @@
 {
   "modelVersion": "baseline-v1",
-  "trainedAt": "2026-01-03T13:42:40.315310+00:00",
+  "trainedAt": "2026-01-04T01:59:12.088514+00:00",
   "dataPath": "/Applications/Projects/remsfal-prioritization-service/remsfal-prioritization-service/untitled/app/data/train.csv",
   "rowsTotal": 2580,
   "split": {
@@ -8,31 +8,44 @@
     "test": 516
   },
   "metrics": {
-    "accuracy": 0.8643410852713178,
-    "f1_macro": 0.8590370370370369
+    "accuracy": 0.8624031007751938,
+    "f1_macro": 0.8551151167480029
   },
   "per_class": {
     "HIGH": {
-      "f1": 0.9166666666666666,
-      "precision": 0.9166666666666666,
-      "recall": 0.9166666666666666
+      "f1": 0.9216589861751152,
+      "precision": 0.9174311926605505,
+      "recall": 0.9259259259259259
     },
     "MEDIUM": {
-      "f1": 0.816,
-      "precision": 0.8095238095238095,
-      "recall": 0.8225806451612904
+      "f1": 0.8118279569892473,
+      "precision": 0.8118279569892473,
+      "recall": 0.8118279569892473
     },
     "LOW": {
-      "f1": 0.8444444444444444,
-      "precision": 0.8558558558558559,
-      "recall": 0.8333333333333334
+      "f1": 0.831858407079646,
+      "precision": 0.8392857142857143,
+      "recall": 0.8245614035087719
     }
   },
   "latency_model_only": {
-    "p50_ms": 0.055582961067557335,
-    "p95_ms": 0.059723504818975925,
-    "p99_ms": 0.06581262452527878,
-    "mean_ms": 0.05616562906652689,
+    "p50_ms": 0.079666031524539,
+    "p95_ms": 0.08309438126161695,
+    "p99_ms": 0.0939564057625829,
+    "mean_ms": 0.08026531587044398,
     "n": 300
+  },
+  "tuning": {
+    "best_params": {
+      "clf__C": 10.0,
+      "tfidf__max_features": 30000,
+      "tfidf__min_df": 1,
+      "tfidf__ngram_range": [
+        1,
+        2
+      ]
+    },
+    "cv_best_f1_macro": 0.8561119371967439,
+    "cv_folds": 5
   }
 }

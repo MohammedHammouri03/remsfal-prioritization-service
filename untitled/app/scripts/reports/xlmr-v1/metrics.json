@@ -1,0 +1,41 @@
+{
+  "modelVersion": "xlmr-v1",
+  "trainedAt": "2026-01-03T18:24:36.296739+00:00",
+  "dataPath": "/Applications/Projects/remsfal-prioritization-service/remsfal-prioritization-service/untitled/app/data/train.csv",
+  "rowsTotal": 2580,
+  "split": {
+    "train": 2064,
+    "test": 516
+  },
+  "metrics": {
+    "accuracy": 0.8507751937984496,
+    "f1_macro": 0.8404000737693211
+  },
+  "per_class": {
+    "HIGH": {
+      "f1": 0.9213483146067416,
+      "precision": 0.8951965065502183,
+      "recall": 0.9490740740740741
+    },
+    "MEDIUM": {
+      "f1": 0.7890410958904109,
+      "precision": 0.8044692737430168,
+      "recall": 0.7741935483870968
+    },
+    "LOW": {
+      "f1": 0.8108108108108109,
+      "precision": 0.8333333333333334,
+      "recall": 0.7894736842105263
+    }
+  },
+  "latency_model_only": {
+    "p50_ms": 40.39293737150729,
+    "p95_ms": 60.154718370176845,
+    "p99_ms": 97.91830261237608,
+    "mean_ms": 46.60832417663187,
+    "n": 200,
+    "device": "cpu"
+  },
+  "baseModel": "xlm-roberta-base",
+  "max_length": 256
+}

@@ -1,0 +1,1033 @@
+id,priority_label,title,description,text,category
+E-L-041,LOW,Steckdose optisch veraltet,Eine Steckdose wirkt optisch veraltet.,"Steckdose optisch veraltet
+Eine Steckdose wirkt optisch veraltet.",Elektro
+SW-M-073,MEDIUM,WC-Spülung schwankt in Leistung,Unterschiedliche Spülstärke.,"WC-Spülung schwankt in Leistung
+Unterschiedliche Spülstärke.",Sanitär / Wasser
+SW-H-045,HIGH,Kein Wasser in Küche und Bad,Beide Räume ohne Wasserversorgung.,"Kein Wasser in Küche und Bad
+Beide Räume ohne Wasserversorgung.",Sanitär / Wasser
+E-L-033,LOW,Schalterabdeckung verkratzt,Die Abdeckung eines Schalters ist verkratzt.,"Schalterabdeckung verkratzt
+Die Abdeckung eines Schalters ist verkratzt.",Elektro
+LAERM-H-085,HIGH,Dauerhaftes Quietschen von Toranlage,"Die Toranlage quietscht extrem laut bei jedem Öffnen, auch nachts.","Dauerhaftes Quietschen von Toranlage
+Die Toranlage quietscht extrem laut bei jedem Öffnen, auch nachts.",Lärm
+AUSSEN-L-025,LOW,Verwittertes Schild,Schild optisch alt,"Verwittertes Schild
+Schild optisch alt",Außenbereich
+SM-H-049,HIGH,Schimmelgeruch und Befall im Treppenhaus,"Massiver Schimmel sichtbar, Ausbreitung im Treppenhaus deutlich erkennbar.","Schimmelgeruch und Befall im Treppenhaus
+Massiver Schimmel sichtbar, Ausbreitung im Treppenhaus deutlich erkennbar.",Schimmel
+H-048,HIGH,Keine Wärme im Haushalt,Die Wohnung wird aktuell nicht beheizt.,"Keine Wärme im Haushalt
+Die Wohnung wird aktuell nicht beheizt.",Heizung / Wärmeversorgung
+BS-L-046,LOW,Leichte Putzveränderung Außenwand,An der Außenwand wirkt der Putz leicht verändert.,"Leichte Putzveränderung Außenwand
+An der Außenwand wirkt der Putz leicht verändert.",Bauliche Schäden
+LAERM-M-046,MEDIUM,Regelmäßiges Summen,Ein Summen ist regelmäßig hörbar,"Regelmäßiges Summen
+Ein Summen ist regelmäßig hörbar",Lärm
+BS-M-078,MEDIUM,Putz löst sich an Außenfassade,An der Außenfassade löst sich der Putz stellenweise.,"Putz löst sich an Außenfassade
+An der Außenfassade löst sich der Putz stellenweise.",Bauliche Schäden
+BS-L-047,LOW,Kleine Stelle abgeplatzter Putz,"Eine kleine Stelle Putz ist abgeplatzt, keine Gefahr.","Kleine Stelle abgeplatzter Putz
+Eine kleine Stelle Putz ist abgeplatzt, keine Gefahr.",Bauliche Schäden
+A-M-002,MEDIUM,Aufzug fährt langsam,Der Aufzug fährt deutlich langsamer als üblich.,"Aufzug fährt langsam
+Der Aufzug fährt deutlich langsamer als üblich.",Aufzug
+LAERM-H-014,HIGH,Extrem lauter Ventilator,Ein Ventilator läuft extrem laut und dauerhaft,"Extrem lauter Ventilator
+Ein Ventilator läuft extrem laut und dauerhaft",Lärm
+AUSSEN-H-031,HIGH,Defekte Entwässerungsrinne,Stolpergefahr durch offene Rinne,"Defekte Entwässerungsrinne
+Stolpergefahr durch offene Rinne",Außenbereich
+TF-M-029,MEDIUM,Tür quietscht beim Schließen,Die Tür quietscht beim Schließen.,"Tür quietscht beim Schließen
+Die Tür quietscht beim Schließen.",Türen/Fenster
+BS-L-027,LOW,Kleine Unebenheit Boden Flur,Der Boden im Flur ist minimal uneben,"Kleine Unebenheit Boden Flur
+Der Boden im Flur ist minimal uneben",Bauliche Schäden
+BS-H-053,HIGH,Rissbildung Dachstuhl,Im Dachstuhl sind große Risse sichtbar,"Rissbildung Dachstuhl
+Im Dachstuhl sind große Risse sichtbar",Bauliche Schäden
+E-L-044,LOW,Steckdose schwer erreichbar hinter Bett,Eine Steckdose ist hinter dem Bett schwer erreichbar.,"Steckdose schwer erreichbar hinter Bett
+Eine Steckdose ist hinter dem Bett schwer erreichbar.",Elektro
+HM-075,MEDIUM,Warmwasser nicht ausreichend heiß,Die Temperatur reicht nicht aus.,"Warmwasser nicht ausreichend heiß
+Die Temperatur reicht nicht aus.",Heizung / Wärmeversorgung
+HM-021,MEDIUM,Warmwasser schwankt stark,Die Wassertemperatur ist unzuverlässig.,"Warmwasser schwankt stark
+Die Wassertemperatur ist unzuverlässig.",Heizung / Wärmeversorgung
+SW-M-010,MEDIUM,Geringe Feuchtigkeit an Rohrleitung,Leichte Feuchtigkeit sichtbar.,"Geringe Feuchtigkeit an Rohrleitung
+Leichte Feuchtigkeit sichtbar.",Sanitär / Wasser
+BS-M-047,MEDIUM,Rissbildung Balkonwand,In der Balkonwand ist ein Riss entstanden,"Rissbildung Balkonwand
+In der Balkonwand ist ein Riss entstanden",Bauliche Schäden
+REIN-M-060,MEDIUM,Leichte Geruchsbelästigung in Tiefgarage,"Geruch wahrnehmbar, vermutlich durch Schmutz; optisch störend.","Leichte Geruchsbelästigung in Tiefgarage
+Geruch wahrnehmbar, vermutlich durch Schmutz; optisch störend.",Reinigung
+E-H-027,HIGH,Elektrik nach Starkregen defekt,Nach starkem Regen ist die Elektrik ausgefallen.,"Elektrik nach Starkregen defekt
+Nach starkem Regen ist die Elektrik ausgefallen.",Elektro
+SW-M-026,MEDIUM,Abfluss im Keller riecht,Geruchsbelästigung ohne Austritt.,"Abfluss im Keller riecht
+Geruchsbelästigung ohne Austritt.",Sanitär / Wasser
+AUSSEN-M-077,MEDIUM,Unebene Parkfläche,"Die Parkfläche ist leicht uneben, Komfort eingeschränkt.","Unebene Parkfläche
+Die Parkfläche ist leicht uneben, Komfort eingeschränkt.",Außenbereich
+E-H-073,HIGH,Defekter Stromzähler,Der Stromzähler ist defekt und zeigt Fehlwerte.,"Defekter Stromzähler
+Der Stromzähler ist defekt und zeigt Fehlwerte.",Elektro
+SW-M-019,MEDIUM,Wasser läuft langsam aus Badewanne ab,Der Ablauf ist teilweise blockiert.,"Wasser läuft langsam aus Badewanne ab
+Der Ablauf ist teilweise blockiert.",Sanitär / Wasser
+H-022,HIGH,Keine Heizleistung mehr,Die Heizkörper bleiben durchgehend kalt.,"Keine Heizleistung mehr
+Die Heizkörper bleiben durchgehend kalt.",Heizung / Wärmeversorgung
+BS-L-037,LOW,Feine Kratzspuren im Putz,"Im Putz sind feine Kratzspuren sichtbar, ohne Relevanz.","Feine Kratzspuren im Putz
+Im Putz sind feine Kratzspuren sichtbar, ohne Relevanz.",Bauliche Schäden
+A-L-044,LOW,Aufzugboden knarzt,Der Boden in der Kabine knarzt beim Betreten.,"Aufzugboden knarzt
+Der Boden in der Kabine knarzt beim Betreten.",Aufzug
+A-L-011,LOW,Aufzugtür schließt laut,Die Tür schließt etwas lauter als gewohnt.,"Aufzugtür schließt laut
+Die Tür schließt etwas lauter als gewohnt.",Aufzug
+SON-L-003,LOW,Digitale Anzeige zeigt falsches Datum,Keine Auswirkung auf Betrieb,"Digitale Anzeige zeigt falsches Datum
+Keine Auswirkung auf Betrieb",Sonstige
+BSCH-L-029,LOW,Rauchmelder vergilbt – Bereich 9,"Der Rauchmelder ist optisch vergilbt/alt, funktioniert jedoch. (Betroffen: Gebäude).","Rauchmelder vergilbt – Bereich 9
+Der Rauchmelder ist optisch vergilbt/alt, funktioniert jedoch. (Betroffen: Gebäude).",Brandschutz
+SON-H-036,HIGH,Zugang für Rettungskräfte blockiert,Notfallzugang nicht möglich,"Zugang für Rettungskräfte blockiert
+Notfallzugang nicht möglich",Sonstige
+E-L-030,LOW,Steckdose ungünstig platziert,Eine Steckdose ist ungünstig platziert.,"Steckdose ungünstig platziert
+Eine Steckdose ist ungünstig platziert.",Elektro
+TF-M-062,MEDIUM,Fensterrahmen minimal verzogen,Der Fensterrahmen ist minimal verzogen.,"Fensterrahmen minimal verzogen
+Der Fensterrahmen ist minimal verzogen.",Türen/Fenster
+AUSSEN-H-061,HIGH,Sturzgefahr durch lose Platten,Platten bewegen sich stark,"Sturzgefahr durch lose Platten
+Platten bewegen sich stark",Außenbereich
+SM-M-063,MEDIUM,Leichter Schimmel an Abstellraum-Ecke,Schimmel an Fensterbereich im Abstellraum festgestellt.,"Leichter Schimmel an Abstellraum-Ecke
+Schimmel an Fensterbereich im Abstellraum festgestellt.",Schimmel
+LAERM-H-007,HIGH,Heftige Geräusche aus Lüftungsanlage,Die Lüftungsanlage verursacht sehr laute Geräusche,"Heftige Geräusche aus Lüftungsanlage
+Die Lüftungsanlage verursacht sehr laute Geräusche",Lärm
+AUSSEN-M-072,MEDIUM,Außenleuchte locker,"Die Außenleuchte ist locker, aber noch funktionsfähig.","Außenleuchte locker
+Die Außenleuchte ist locker, aber noch funktionsfähig.",Außenbereich
+BS-L-019,LOW,Optischer Mangel Putz Flur,Ein kleiner optischer Mangel im Putz,"Optischer Mangel Putz Flur
+Ein kleiner optischer Mangel im Putz",Bauliche Schäden
+AUSSEN-M-059,MEDIUM,Verschmutzte Sitzfläche,Bank verschmutzt,"Verschmutzte Sitzfläche
+Bank verschmutzt",Außenbereich
+BSCH-L-028,LOW,Fluchtplan ausgebleicht – Bereich 8,"Der Fluchtplan ist leicht ausgebleicht, aber noch erkennbar. (Betroffen: Gebäude).","Fluchtplan ausgebleicht – Bereich 8
+Der Fluchtplan ist leicht ausgebleicht, aber noch erkennbar. (Betroffen: Gebäude).",Brandschutz
+REIN-H-030,HIGH,Hygienische Verunreinigung in Flur,Öl-/Chemiespur im Flur festgestellt; sofortige Reinigung erforderlich.,"Hygienische Verunreinigung in Flur
+Öl-/Chemiespur im Flur festgestellt; sofortige Reinigung erforderlich.",Reinigung
+SM-L-042,LOW,Kleiner Schimmelfleck im Bad,"Kaum sichtbare Schimmelspur im Bad, sehr gering ausgeprägt.","Kleiner Schimmelfleck im Bad
+Kaum sichtbare Schimmelspur im Bad, sehr gering ausgeprägt.",Schimmel
+AUSSEN-H-017,HIGH,Instabile Außenbeleuchtung,Lampe droht abzustürzen,"Instabile Außenbeleuchtung
+Lampe droht abzustürzen",Außenbereich
+LAERM-M-033,MEDIUM,Geräusche aus Nebenraum,Aus dem Nebenraum sind Geräusche hörbar,"Geräusche aus Nebenraum
+Aus dem Nebenraum sind Geräusche hörbar",Lärm
+LAERM-M-076,MEDIUM,Leichtes Dröhnen aus Aufzugsschacht,Ein Dröhnen aus dem Aufzugsschacht ist regelmäßig hörbar.,"Leichtes Dröhnen aus Aufzugsschacht
+Ein Dröhnen aus dem Aufzugsschacht ist regelmäßig hörbar.",Lärm
+E-M-065,MEDIUM,Steckdose schwer erreichbar defekt,Eine schwer erreichbare Steckdose ist defekt.,"Steckdose schwer erreichbar defekt
+Eine schwer erreichbare Steckdose ist defekt.",Elektro
+BS-M-021,MEDIUM,Rissbildung an Türrahmen,Am Türrahmen ist ein Riss entstanden,"Rissbildung an Türrahmen
+Am Türrahmen ist ein Riss entstanden",Bauliche Schäden
+AUSSEN-M-043,MEDIUM,Schlechte Entwässerung,Wasser steht länger,"Schlechte Entwässerung
+Wasser steht länger",Außenbereich
+REIN-H-076,HIGH,Starke Verschmutzung WC,Bereich stark verschmutzt; starker Gestank.,"Starke Verschmutzung WC
+Bereich stark verschmutzt; starker Gestank.",Reinigung
+SM-H-023,HIGH,Großflächiger Schimmelbefall im Küche,Nach Wassereintritt hat sich starker Schimmel im Küche gebildet.,"Großflächiger Schimmelbefall im Küche
+Nach Wassereintritt hat sich starker Schimmel im Küche gebildet.",Schimmel
+HM-017,MEDIUM,Heizkörper gluckert,Beim Betrieb sind deutliche Luftgeräusche hörbar.,"Heizkörper gluckert
+Beim Betrieb sind deutliche Luftgeräusche hörbar.",Heizung / Wärmeversorgung
+SON-M-038,MEDIUM,Digitale Sicherheitsberichte fehlen,Transparenz eingeschränkt,"Digitale Sicherheitsberichte fehlen
+Transparenz eingeschränkt",Sonstige
+REIN-H-066,HIGH,Unrat/Abfall in Fahrradraum,Müll/Unrat liegt im Fahrradraum und verursacht starker Gestank.,"Unrat/Abfall in Fahrradraum
+Müll/Unrat liegt im Fahrradraum und verursacht starker Gestank.",Reinigung
+SON-H-084,HIGH,Zentrale Sicherheitssoftware abgestürzt,Objekt ungeschützt,"Zentrale Sicherheitssoftware abgestürzt
+Objekt ungeschützt",Sonstige
+BS-H-025,HIGH,Betondecke bröckelt,Die Betondecke im Keller bröckelt stark,"Betondecke bröckelt
+Die Betondecke im Keller bröckelt stark",Bauliche Schäden
+H-014,HIGH,Ausfall Wärmeversorgung Wohnung,Die Wohnung wird seit heute nicht mehr beheizt.,"Ausfall Wärmeversorgung Wohnung
+Die Wohnung wird seit heute nicht mehr beheizt.",Heizung / Wärmeversorgung
+AUSSEN-H-022,HIGH,Zaun beschädigt mit scharfen Kanten,Verletzungsgefahr durch Metall,"Zaun beschädigt mit scharfen Kanten
+Verletzungsgefahr durch Metall",Außenbereich
+SON-H-067,HIGH,Digitale Sicherheitspläne nicht abrufbar,Einsatz erschwert,"Digitale Sicherheitspläne nicht abrufbar
+Einsatz erschwert",Sonstige
+A-M-066,MEDIUM,Aufzug vibriert während der Fahrt,Während der Fahrt sind deutliche Vibrationen spürbar.,"Aufzug vibriert während der Fahrt
+Während der Fahrt sind deutliche Vibrationen spürbar.",Aufzug
+AUSSEN-H-090,HIGH,Böschung nach Regen abgerutscht,"Ein Teil der Böschung ist abgerutscht, Weg wurde unterspült.","Böschung nach Regen abgerutscht
+Ein Teil der Böschung ist abgerutscht, Weg wurde unterspült.",Außenbereich
+REIN-M-049,MEDIUM,Leichte Geruchsbelästigung in Gemeinschaftsfläche,"Geruch wahrnehmbar, vermutlich durch Schmutz; Reinigung zeitnah einplanen.","Leichte Geruchsbelästigung in Gemeinschaftsfläche
+Geruch wahrnehmbar, vermutlich durch Schmutz; Reinigung zeitnah einplanen.",Reinigung
+LAERM-M-077,MEDIUM,Klappernde Abdeckung im Flur,Eine Abdeckung im Flur klappert bei jeder Bewegung.,"Klappernde Abdeckung im Flur
+Eine Abdeckung im Flur klappert bei jeder Bewegung.",Lärm
+SM-M-001,MEDIUM,Leichter Schimmel an Schlafzimmer-Ecke,Schimmelbildung an einer kühlen Stelle im Schlafzimmer.,"Leichter Schimmel an Schlafzimmer-Ecke
+Schimmelbildung an einer kühlen Stelle im Schlafzimmer.",Schimmel
+BS-M-040,MEDIUM,Abnutzung Bodenbelag Flur,Der Bodenbelag im Flur ist stark abgenutzt,"Abnutzung Bodenbelag Flur
+Der Bodenbelag im Flur ist stark abgenutzt",Bauliche Schäden
+SM-L-004,LOW,Schimmelpunkt in Flur-Ecke,Minimaler Schimmelbefall an einer Stelle im Flur.,"Schimmelpunkt in Flur-Ecke
+Minimaler Schimmelbefall an einer Stelle im Flur.",Schimmel
+TF-H-051,HIGH,Fenster schließt nicht bei Frost,Bei Frost lässt sich das Fenster nicht schließen.,"Fenster schließt nicht bei Frost
+Bei Frost lässt sich das Fenster nicht schließen.",Türen/Fenster
+AUSSEN-L-012,LOW,Uneinheitliche Pflasterfarbe,Farbunterschiede sichtbar,"Uneinheitliche Pflasterfarbe
+Farbunterschiede sichtbar",Außenbereich
+SW-M-042,MEDIUM,Wasserhahn spritzt unregelmäßig,Strahl ist nicht gleichmäßig.,"Wasserhahn spritzt unregelmäßig
+Strahl ist nicht gleichmäßig.",Sanitär / Wasser
+AUSSEN-H-053,HIGH,Absturzgefahr an Kellerschacht,Kellerschacht ungesichert,"Absturzgefahr an Kellerschacht
+Kellerschacht ungesichert",Außenbereich
+TF-H-017,HIGH,Türgriff abgebrochen,Der Türgriff ist abgebrochen.,"Türgriff abgebrochen
+Der Türgriff ist abgebrochen.",Türen/Fenster
+BS-M-044,MEDIUM,Unebene Treppenstufe Flur,Eine Stufe im Flur ist leicht abgesenkt,"Unebene Treppenstufe Flur
+Eine Stufe im Flur ist leicht abgesenkt",Bauliche Schäden
+SW-M-050,MEDIUM,Abfluss im Bad riecht leicht,Geruch ohne Rückstau.,"Abfluss im Bad riecht leicht
+Geruch ohne Rückstau.",Sanitär / Wasser
+SM-M-059,MEDIUM,Schimmel durch Kondenswasser im Kellerraum,"Schimmel an Sockelleiste im Kellerraum, noch nicht großflächig.","Schimmel durch Kondenswasser im Kellerraum
+Schimmel an Sockelleiste im Kellerraum, noch nicht großflächig.",Schimmel
+SW-M-063,MEDIUM,Warmwasser nicht konstant heiß,Temperatur schwankt.,"Warmwasser nicht konstant heiß
+Temperatur schwankt.",Sanitär / Wasser
+SM-L-035,LOW,Schimmelpunkt in Flur-Ecke,"Kaum sichtbare Schimmelspur im Flur, sehr gering ausgeprägt.","Schimmelpunkt in Flur-Ecke
+Kaum sichtbare Schimmelspur im Flur, sehr gering ausgeprägt.",Schimmel
+AUSSEN-M-020,MEDIUM,Außenrampe rissig,Risse in Rampenoberfläche,"Außenrampe rissig
+Risse in Rampenoberfläche",Außenbereich
+A-L-025,LOW,Aufzug fährt minimal langsamer,Der Aufzug fährt minimal langsamer.,"Aufzug fährt minimal langsamer
+Der Aufzug fährt minimal langsamer.",Aufzug
+SON-L-004,LOW,Aushang im Treppenhaus schief,Beeinträchtigt nur Optik,"Aushang im Treppenhaus schief
+Beeinträchtigt nur Optik",Sonstige
+E-M-048,MEDIUM,Licht im Hof teilweise ausgefallen,Ein Teil der Hofbeleuchtung ist defekt.,"Licht im Hof teilweise ausgefallen
+Ein Teil der Hofbeleuchtung ist defekt.",Elektro
+BSCH-L-036,LOW,Fluchtwegmarkierung verblasst – Bereich 16,Die Fluchtwegmarkierung wirkt etwas verblasst. (Betroffen: Wohnung).,"Fluchtwegmarkierung verblasst – Bereich 16
+Die Fluchtwegmarkierung wirkt etwas verblasst. (Betroffen: Wohnung).",Brandschutz
+LAERM-L-031,LOW,Minimaler Geräuschpegel,Sehr niedriger Geräuschpegel,"Minimaler Geräuschpegel
+Sehr niedriger Geräuschpegel",Lärm
+SM-M-030,MEDIUM,Leichter Schimmel an Küche-Ecke,Schimmel an Fensterbereich im Küche festgestellt.,"Leichter Schimmel an Küche-Ecke
+Schimmel an Fensterbereich im Küche festgestellt.",Schimmel
+BSCH-H-080,HIGH,Brandmeldezentrale offline – Bereich 30,Die Brandmeldezentrale ist offline und zeigt keine Auswertung/Alarmierung. (Betroffen: Gebäude).,"Brandmeldezentrale offline – Bereich 30
+Die Brandmeldezentrale ist offline und zeigt keine Auswertung/Alarmierung. (Betroffen: Gebäude).",Brandschutz
+LAERM-M-017,MEDIUM,Lautes Schließen von Türen,Türen schlagen regelmäßig laut zu,"Lautes Schließen von Türen
+Türen schlagen regelmäßig laut zu",Lärm
+HM-007,MEDIUM,Warmwasser nur lauwarm,Das Warmwasser erreicht keine ausreichende Temperatur.,"Warmwasser nur lauwarm
+Das Warmwasser erreicht keine ausreichende Temperatur.",Heizung / Wärmeversorgung
+A-H-089,HIGH,Aufzug lässt sich nicht öffnen,"Die Aufzugtüren lassen sich nicht öffnen, Kabine bleibt geschlossen.","Aufzug lässt sich nicht öffnen
+Die Aufzugtüren lassen sich nicht öffnen, Kabine bleibt geschlossen.",Aufzug
+AUSSEN-H-086,HIGH,Defekter Gullirand scharfkantig,Der Rand eines Gullys ist scharfkantig und frei liegend.,"Defekter Gullirand scharfkantig
+Der Rand eines Gullys ist scharfkantig und frei liegend.",Außenbereich
+SW-H-049,HIGH,Defekte Hauptabsperrung,Das Wasser lässt sich nicht abstellen.,"Defekte Hauptabsperrung
+Das Wasser lässt sich nicht abstellen.",Sanitär / Wasser
+BS-H-026,HIGH,Großer Riss im Treppenhaus,Ein breiter Riss zieht sich über das gesamte Treppenhaus,"Großer Riss im Treppenhaus
+Ein breiter Riss zieht sich über das gesamte Treppenhaus",Bauliche Schäden
+REIN-H-033,HIGH,Rutschgefahr durch ölig in Keller,Boden ist ölig und rutschig; Öl-/Chemiespur.,"Rutschgefahr durch ölig in Keller
+Boden ist ölig und rutschig; Öl-/Chemiespur.",Reinigung
+E-L-034,LOW,Steckdose leicht verschmutzt,Eine Steckdose ist verschmutzt.,"Steckdose leicht verschmutzt
+Eine Steckdose ist verschmutzt.",Elektro
+BS-M-015,MEDIUM,Abplatzungen an Balkonwand,An der Balkonwand lösen sich kleine Putzstücke,"Abplatzungen an Balkonwand
+An der Balkonwand lösen sich kleine Putzstücke",Bauliche Schäden
+LAERM-M-067,MEDIUM,Klappern von Lüftungsgitter,Ein Lüftungsgitter klappert bei Betrieb hörbar.,"Klappern von Lüftungsgitter
+Ein Lüftungsgitter klappert bei Betrieb hörbar.",Lärm
+H-015,HIGH,Heizung komplett ohne Leistung,Die Heizung läuft nicht mehr und es entsteht keine Wärme.,"Heizung komplett ohne Leistung
+Die Heizung läuft nicht mehr und es entsteht keine Wärme.",Heizung / Wärmeversorgung
+LAERM-L-035,LOW,Geringfügige Geräusche aus Keller,Kellergeräusche kaum wahrnehmbar,"Geringfügige Geräusche aus Keller
+Kellergeräusche kaum wahrnehmbar",Lärm
+REIN-M-069,MEDIUM,Leichte Geruchsbelästigung in Gemeinschaftsfläche,"Geruch wahrnehmbar, vermutlich durch Schmutz; hygienisch unangenehm. (wiederholt gemeldet)","Leichte Geruchsbelästigung in Gemeinschaftsfläche
+Geruch wahrnehmbar, vermutlich durch Schmutz; hygienisch unangenehm. (wiederholt gemeldet)",Reinigung
+AUSSEN-L-041,LOW,Kleine Flecken im Pflaster,"Kleine Flecken im Pflaster, nur optisch.","Kleine Flecken im Pflaster
+Kleine Flecken im Pflaster, nur optisch.",Außenbereich
+AUSSEN-M-009,MEDIUM,Kleine Absenkung im Hof,Boden leicht abgesackt,"Kleine Absenkung im Hof
+Boden leicht abgesackt",Außenbereich
+BSCH-M-002,MEDIUM,Rauchmelder piept gelegentlich,"Der Rauchmelder gibt sporadisch Pieptöne ab, vermutlich Batteriewarnung.","Rauchmelder piept gelegentlich
+Der Rauchmelder gibt sporadisch Pieptöne ab, vermutlich Batteriewarnung.",Brandschutz
+LAERM-H-086,HIGH,Extrem laute Pumpgeräusche im Schacht,Aus einem Schacht sind extrem laute Pumpgeräusche dauerhaft hörbar.,"Extrem laute Pumpgeräusche im Schacht
+Aus einem Schacht sind extrem laute Pumpgeräusche dauerhaft hörbar.",Lärm
+SM-M-060,MEDIUM,Schimmel durch Kondenswasser im Schlafzimmer,"Schimmel an Sockelleiste im Schlafzimmer, noch nicht großflächig.","Schimmel durch Kondenswasser im Schlafzimmer
+Schimmel an Sockelleiste im Schlafzimmer, noch nicht großflächig.",Schimmel
+TF-H-047,HIGH,Balkontür schließt nicht dicht,Die Balkontür schließt nicht dicht.,"Balkontür schließt nicht dicht
+Die Balkontür schließt nicht dicht.",Türen/Fenster
+SON-M-049,MEDIUM,Zugangskontrolle meldet Wartung,Funktion aktuell stabil,"Zugangskontrolle meldet Wartung
+Funktion aktuell stabil",Sonstige
+LAERM-H-047,HIGH,Lautes Pfeifen in der Wohnung,Ein sehr lautes Pfeifen ist hörbar,"Lautes Pfeifen in der Wohnung
+Ein sehr lautes Pfeifen ist hörbar",Lärm
+TF-H-019,HIGH,Wohnungstür schließt nicht richtig,Die Wohnungstür schließt nicht mehr korrekt.,"Wohnungstür schließt nicht richtig
+Die Wohnungstür schließt nicht mehr korrekt.",Türen/Fenster
+A-H-070,HIGH,Aufzug fährt nicht mehr zuverlässig,Der Aufzug fährt nicht mehr zuverlässig.,"Aufzug fährt nicht mehr zuverlässig
+Der Aufzug fährt nicht mehr zuverlässig.",Aufzug
+TF-L-044,LOW,Fenster optisch verschmutzt,Das Fenster ist optisch verschmutzt.,"Fenster optisch verschmutzt
+Das Fenster ist optisch verschmutzt.",Türen/Fenster
+BSCH-L-010,LOW,Fluchtplan ausgebleicht,"Der Fluchtplan ist leicht ausgebleicht, aber noch erkennbar.","Fluchtplan ausgebleicht
+Der Fluchtplan ist leicht ausgebleicht, aber noch erkennbar.",Brandschutz
+TF-M-067,MEDIUM,Türverriegelung schwergängig,Die Verriegelung der Tür ist schwergängig.,"Türverriegelung schwergängig
+Die Verriegelung der Tür ist schwergängig.",Türen/Fenster
+BS-H-024,HIGH,Tragwerksbeschädigung nach Wasserschaden,Nach einem Wasserschaden ist die Statik beeinträchtigt,"Tragwerksbeschädigung nach Wasserschaden
+Nach einem Wasserschaden ist die Statik beeinträchtigt",Bauliche Schäden
+A-L-016,LOW,Aufzug macht leises Summen,Der Aufzug macht ein leises Summgeräusch.,"Aufzug macht leises Summen
+Der Aufzug macht ein leises Summgeräusch.",Aufzug
+SM-H-061,HIGH,Schimmelgeruch und Befall im Kinderzimmer,Großflächiger Schimmelbefall an Wand und Decke im Kinderzimmer.,"Schimmelgeruch und Befall im Kinderzimmer
+Großflächiger Schimmelbefall an Wand und Decke im Kinderzimmer.",Schimmel
+TF-H-032,HIGH,Fenster lässt sich nicht kippen,Das Fenster kann nicht mehr gekippt werden.,"Fenster lässt sich nicht kippen
+Das Fenster kann nicht mehr gekippt werden.",Türen/Fenster
+BS-L-024,LOW,Leichte Farbabsplitterung Wand,Kleine Farbabsplitterung an der Wand,"Leichte Farbabsplitterung Wand
+Kleine Farbabsplitterung an der Wand",Bauliche Schäden
+REIN-L-011,LOW,Leichte Schlieren in Technikbereich,Schlieren kaum sichtbar; bei nächster Reinigung mitnehmen.,"Leichte Schlieren in Technikbereich
+Schlieren kaum sichtbar; bei nächster Reinigung mitnehmen.",Reinigung
+SON-M-047,MEDIUM,Digitale Sicherheitslogs lückenhaft,Analyse erschwert,"Digitale Sicherheitslogs lückenhaft
+Analyse erschwert",Sonstige
+LAERM-M-074,MEDIUM,Geräusche durch Heizungspumpe,"Die Heizungspumpe ist deutlich hörbar, aber funktionsfähig.","Geräusche durch Heizungspumpe
+Die Heizungspumpe ist deutlich hörbar, aber funktionsfähig.",Lärm
+REIN-M-008,MEDIUM,Staubansammlung in Gemeinschaftsraum,Staub/Schlieren seit einigen Tagen; hygienisch unangenehm.,"Staubansammlung in Gemeinschaftsraum
+Staub/Schlieren seit einigen Tagen; hygienisch unangenehm.",Reinigung
+H-021,HIGH,Heizung ausgefallen bei Kälte,Die Heizung funktioniert nicht trotz niedriger Außentemperaturen.,"Heizung ausgefallen bei Kälte
+Die Heizung funktioniert nicht trotz niedriger Außentemperaturen.",Heizung / Wärmeversorgung
+SW-M-022,MEDIUM,Leichte Undichtigkeit am Eckventil,Es tropft gelegentlich.,"Leichte Undichtigkeit am Eckventil
+Es tropft gelegentlich.",Sanitär / Wasser
+AUSSEN-H-048,HIGH,Instabile Treppenkante,Kante bricht weg,"Instabile Treppenkante
+Kante bricht weg",Außenbereich
+BSCH-H-062,HIGH,Rauchmelder Batterie leer – Bereich 12,Die Batterie ist leer – Rauchmelder warnt nicht mehr. (Betroffen: Wohnung).,"Rauchmelder Batterie leer – Bereich 12
+Die Batterie ist leer – Rauchmelder warnt nicht mehr. (Betroffen: Wohnung).",Brandschutz
+SM-L-047,LOW,Kleiner Schimmelfleck im Sockelleiste,"Sehr kleiner, oberflächlicher Schimmelfleck im Sockelleiste.","Kleiner Schimmelfleck im Sockelleiste
+Sehr kleiner, oberflächlicher Schimmelfleck im Sockelleiste.",Schimmel
+A-M-024,MEDIUM,Aufzug zeigt Servicehinweis,Der Aufzug zeigt einen Servicehinweis an.,"Aufzug zeigt Servicehinweis
+Der Aufzug zeigt einen Servicehinweis an.",Aufzug
+E-H-022,HIGH,Stromausfall Gewerbeeinheit,Eine Gewerbeeinheit im Gebäude hat keinen Strom.,"Stromausfall Gewerbeeinheit
+Eine Gewerbeeinheit im Gebäude hat keinen Strom.",Elektro
+A-M-069,MEDIUM,Aufzug fährt unruhig bergab,Beim Herunterfahren ist die Fahrt deutlich unruhiger als sonst.,"Aufzug fährt unruhig bergab
+Beim Herunterfahren ist die Fahrt deutlich unruhiger als sonst.",Aufzug
+BSCH-L-020,LOW,Rauchmelder sitzt leicht schief,Der Rauchmelder ist minimal schief montiert.,"Rauchmelder sitzt leicht schief
+Der Rauchmelder ist minimal schief montiert.",Brandschutz
+E-H-063,HIGH,Defekte Sicherungen in Wohnung,Mehrere Sicherungen sind defekt.,"Defekte Sicherungen in Wohnung
+Mehrere Sicherungen sind defekt.",Elektro
+LAERM-H-028,HIGH,Schlaf nicht mehr möglich,Der Lärm macht Schlaf unmöglich,"Schlaf nicht mehr möglich
+Der Lärm macht Schlaf unmöglich",Lärm
+BSCH-M-024,MEDIUM,Notausgang schwer auffindbar,Der Notausgang ist schlecht ausgeschildert und schwer zu finden.,"Notausgang schwer auffindbar
+Der Notausgang ist schlecht ausgeschildert und schwer zu finden.",Brandschutz
+LAERM-M-051,MEDIUM,Leichte Lärmbelastung,Leichte aber konstante Lärmbelastung,"Leichte Lärmbelastung
+Leichte aber konstante Lärmbelastung",Lärm
+LAERM-L-036,LOW,Leichtes Geräusch bei Nutzung,Geräusch nur bei Nutzung hörbar,"Leichtes Geräusch bei Nutzung
+Geräusch nur bei Nutzung hörbar",Lärm
+REIN-L-034,LOW,Leichte Staubschicht in Fahrradraum,Kaum sichtbare Staubablagerungen; bei nächster Reinigung mitnehmen.,"Leichte Staubschicht in Fahrradraum
+Kaum sichtbare Staubablagerungen; bei nächster Reinigung mitnehmen.",Reinigung
+SON-H-072,HIGH,Digitale Zutrittskontrolle friert ein,Zugang blockiert,"Digitale Zutrittskontrolle friert ein
+Zugang blockiert",Sonstige
+HM-079,MEDIUM,Heizung arbeitet nicht konstant,Die Heizleistung schwankt.,"Heizung arbeitet nicht konstant
+Die Heizleistung schwankt.",Heizung / Wärmeversorgung
+SW-L-034,LOW,Wasserhahn hat kleine Kratzer,Rein optisch.,"Wasserhahn hat kleine Kratzer
+Rein optisch.",Sanitär / Wasser
+SW-L-045,LOW,Duschschlauch optisch gealtert,Keine Einschränkung.,"Duschschlauch optisch gealtert
+Keine Einschränkung.",Sanitär / Wasser
+A-M-045,MEDIUM,Aufzug fährt zeitweise ruckelig,Der Aufzug fährt zeitweise ruckelig.,"Aufzug fährt zeitweise ruckelig
+Der Aufzug fährt zeitweise ruckelig.",Aufzug
+AUSSEN-H-006,HIGH,Lockerer Zaun droht umzufallen,Zaunelement ist instabil,"Lockerer Zaun droht umzufallen
+Zaunelement ist instabil",Außenbereich
+AUSSEN-H-003,HIGH,Offener Kanalschacht,Schachtdeckel fehlt im Außenbereich,"Offener Kanalschacht
+Schachtdeckel fehlt im Außenbereich",Außenbereich
+SM-H-017,HIGH,Großflächiger Schimmelbefall im Heizungsraum,Starker Schimmel durch anhaltende Feuchtigkeit im Heizungsraum.,"Großflächiger Schimmelbefall im Heizungsraum
+Starker Schimmel durch anhaltende Feuchtigkeit im Heizungsraum.",Schimmel
+AUSSEN-H-030,HIGH,Absturzgefahr an Böschung,Böschung ungesichert,"Absturzgefahr an Böschung
+Böschung ungesichert",Außenbereich
+SW-H-002,HIGH,Kein Trinkwasser im gesamten Gebäude,Seit mehreren Stunden kommt kein Wasser aus den Leitungen.,"Kein Trinkwasser im gesamten Gebäude
+Seit mehreren Stunden kommt kein Wasser aus den Leitungen.",Sanitär / Wasser
+BSCH-M-044,MEDIUM,Notausgang schwer auffindbar – Bereich 4,Der Notausgang ist schlecht ausgeschildert und schwer zu finden. (Betroffen: Treppenhaus).,"Notausgang schwer auffindbar – Bereich 4
+Der Notausgang ist schlecht ausgeschildert und schwer zu finden. (Betroffen: Treppenhaus).",Brandschutz
+SON-H-078,HIGH,Zentrale Gebäudesteuerung ohne Redundanz,Ausfallrisiko,"Zentrale Gebäudesteuerung ohne Redundanz
+Ausfallrisiko",Sonstige
+TF-L-011,LOW,Abnutzung an Türgriff,Der Türgriff zeigt Abnutzung.,"Abnutzung an Türgriff
+Der Türgriff zeigt Abnutzung.",Türen/Fenster
+REIN-M-078,MEDIUM,Reinigungsbedarf in Müllplatz,Boden/Flächen sichtbar verschmutzt; hygienisch unangenehm.,"Reinigungsbedarf in Müllplatz
+Boden/Flächen sichtbar verschmutzt; hygienisch unangenehm.",Reinigung
+BS-M-027,MEDIUM,Unebenheit Boden Küche,Der Boden in der Küche ist ungleichmäßig,"Unebenheit Boden Küche
+Der Boden in der Küche ist ungleichmäßig",Bauliche Schäden
+SON-M-022,MEDIUM,Zentrale Steuerung mit Warnmeldungen,System arbeitet weiter,"Zentrale Steuerung mit Warnmeldungen
+System arbeitet weiter",Sonstige
+TF-L-024,LOW,Fenster leicht zerkratzt,Das Fenster ist leicht zerkratzt.,"Fenster leicht zerkratzt
+Das Fenster ist leicht zerkratzt.",Türen/Fenster
+A-M-034,MEDIUM,Aufzug fährt langsamer nach Wartung,Der Aufzug fährt langsamer seit Wartung.,"Aufzug fährt langsamer nach Wartung
+Der Aufzug fährt langsamer seit Wartung.",Aufzug
+AUSSEN-H-082,HIGH,Kippende Laterne,Eine Laterne steht schief und könnte umstürzen.,"Kippende Laterne
+Eine Laterne steht schief und könnte umstürzen.",Außenbereich
+HM-022,MEDIUM,Heizkörper unten kalt,Der untere Bereich des Heizkörpers bleibt kalt.,"Heizkörper unten kalt
+Der untere Bereich des Heizkörpers bleibt kalt.",Heizung / Wärmeversorgung
+TF-H-026,HIGH,Kellerfenster nicht abschließbar,Das Kellerfenster kann nicht verschlossen werden.,"Kellerfenster nicht abschließbar
+Das Kellerfenster kann nicht verschlossen werden.",Türen/Fenster
+SW-L-025,LOW,Waschbeckenabfluss optisch verschmutzt,Funktion intakt.,"Waschbeckenabfluss optisch verschmutzt
+Funktion intakt.",Sanitär / Wasser
+BS-L-005,LOW,Leichte Risslinie Flurwand,Eine feine Risslinie ist im Flur sichtbar,"Leichte Risslinie Flurwand
+Eine feine Risslinie ist im Flur sichtbar",Bauliche Schäden
+H-041,HIGH,Wärmeversorgung unterbrochen,Es erfolgt keine Beheizung der Wohnung.,"Wärmeversorgung unterbrochen
+Es erfolgt keine Beheizung der Wohnung.",Heizung / Wärmeversorgung
+E-H-045,HIGH,Elektrik im Treppenhaus defekt,Die Elektrik im Treppenhaus funktioniert nicht mehr.,"Elektrik im Treppenhaus defekt
+Die Elektrik im Treppenhaus funktioniert nicht mehr.",Elektro
+SON-M-004,MEDIUM,Zutrittsprotokolle unvollständig,Einige Einträge fehlen,"Zutrittsprotokolle unvollständig
+Einige Einträge fehlen",Sonstige
+A-M-077,MEDIUM,Aufzug bleibt beim Türöffnen kurz hängen,Beim Türöffnen bleibt der Mechanismus kurz hängen.,"Aufzug bleibt beim Türöffnen kurz hängen
+Beim Türöffnen bleibt der Mechanismus kurz hängen.",Aufzug
+E-M-039,MEDIUM,Licht im Gemeinschaftsflur flackert,Die Beleuchtung im Gemeinschaftsflur flackert.,"Licht im Gemeinschaftsflur flackert
+Die Beleuchtung im Gemeinschaftsflur flackert.",Elektro
+SON-M-035,MEDIUM,Zugangsprotokolle schwer auswertbar,Format unübersichtlich,"Zugangsprotokolle schwer auswertbar
+Format unübersichtlich",Sonstige
+SM-L-007,LOW,Oberflächliche Schimmelspur im Küche,"Leichte Verfärbung durch Schimmel im Küche, punktuell.","Oberflächliche Schimmelspur im Küche
+Leichte Verfärbung durch Schimmel im Küche, punktuell.",Schimmel
+AUSSEN-L-010,LOW,Verblasste Beschilderung,Text noch lesbar,"Verblasste Beschilderung
+Text noch lesbar",Außenbereich
+A-L-027,LOW,Aufzugkabine wirkt ungepflegt,Die Kabine wirkt ungepflegt.,"Aufzugkabine wirkt ungepflegt
+Die Kabine wirkt ungepflegt.",Aufzug
+SW-L-019,LOW,Wasserhahn bewegt sich minimal,Keine Undichtigkeit.,"Wasserhahn bewegt sich minimal
+Keine Undichtigkeit.",Sanitär / Wasser
+SM-H-040,HIGH,Starker Schimmel im Heizungsraum,Starker Schimmel durch anhaltende Feuchtigkeit im Heizungsraum.,"Starker Schimmel im Heizungsraum
+Starker Schimmel durch anhaltende Feuchtigkeit im Heizungsraum.",Schimmel
+BSCH-H-047,HIGH,Defekte Brandschutzverglasung,Brandschutzverglasung ist beschädigt – Schutzwirkung nicht gewährleistet.,"Defekte Brandschutzverglasung
+Brandschutzverglasung ist beschädigt – Schutzwirkung nicht gewährleistet.",Brandschutz
+LAERM-H-049,HIGH,Starkes Brummen unter Wohnung,Unter der Wohnung starkes Brummen,"Starkes Brummen unter Wohnung
+Unter der Wohnung starkes Brummen",Lärm
+LAERM-H-044,HIGH,Maschinengeräusche stören dauerhaft,Dauerhafte laute Maschinengeräusche,"Maschinengeräusche stören dauerhaft
+Dauerhafte laute Maschinengeräusche",Lärm
+AUSSEN-H-047,HIGH,Stolperkante am Eingang,Eingangsbereich gefährlich,"Stolperkante am Eingang
+Eingangsbereich gefährlich",Außenbereich
+BS-H-068,HIGH,Starke Rissbildung Bodenplatte,Die Bodenplatte weist tiefe Risse auf,"Starke Rissbildung Bodenplatte
+Die Bodenplatte weist tiefe Risse auf",Bauliche Schäden
+H-033,HIGH,Heizung komplett abgeschaltet,Die Heizung ist komplett ausgefallen.,"Heizung komplett abgeschaltet
+Die Heizung ist komplett ausgefallen.",Heizung / Wärmeversorgung
+SM-H-075,HIGH,Schimmel nach Feuchtigkeitsschaden im Schlafzimmer,Nach Wassereintritt hat sich starker Schimmel im Schlafzimmer gebildet.,"Schimmel nach Feuchtigkeitsschaden im Schlafzimmer
+Nach Wassereintritt hat sich starker Schimmel im Schlafzimmer gebildet.",Schimmel
+SM-H-035,HIGH,Schimmel nach Feuchtigkeitsschaden im Abstellraum,Großflächiger Schimmelbefall an Wand und Decke im Abstellraum.,"Schimmel nach Feuchtigkeitsschaden im Abstellraum
+Großflächiger Schimmelbefall an Wand und Decke im Abstellraum.",Schimmel
+H-053,HIGH,Kein Warmwasser im Winter,Im Winter steht kein Warmwasser zur Verfügung.,"Kein Warmwasser im Winter
+Im Winter steht kein Warmwasser zur Verfügung.",Heizung / Wärmeversorgung
+E-H-038,HIGH,Elektrik in Gemeinschaftsküche defekt,Die Gemeinschaftsküche hat keinen Strom.,"Elektrik in Gemeinschaftsküche defekt
+Die Gemeinschaftsküche hat keinen Strom.",Elektro
+E-M-067,MEDIUM,Außenbeleuchtung reagiert nicht,Die Außenbeleuchtung reagiert nicht auf den Schalter.,"Außenbeleuchtung reagiert nicht
+Die Außenbeleuchtung reagiert nicht auf den Schalter.",Elektro
+SW-L-001,LOW,Kalkflecken am Wasserhahn,Optische Kalkablagerungen sichtbar.,"Kalkflecken am Wasserhahn
+Optische Kalkablagerungen sichtbar.",Sanitär / Wasser
+LAERM-H-056,HIGH,Lautes Vibrieren im Boden,Der Boden vibriert lautstark,"Lautes Vibrieren im Boden
+Der Boden vibriert lautstark",Lärm
+SW-H-009,HIGH,Wasser tropft durch die Decke,Aus der Decke tropft kontinuierlich Wasser.,"Wasser tropft durch die Decke
+Aus der Decke tropft kontinuierlich Wasser.",Sanitär / Wasser
+BSCH-H-072,HIGH,Notbeleuchtung ausgefallen – Bereich 22,Die Notbeleuchtung funktioniert nicht – bei Stromausfall keine Orientierung. (Betroffen: Treppenhaus).,"Notbeleuchtung ausgefallen – Bereich 22
+Die Notbeleuchtung funktioniert nicht – bei Stromausfall keine Orientierung. (Betroffen: Treppenhaus).",Brandschutz
+LAERM-L-018,LOW,Leiser Maschinenbetrieb,Maschinenbetrieb kaum wahrnehmbar,"Leiser Maschinenbetrieb
+Maschinenbetrieb kaum wahrnehmbar",Lärm
+SON-H-032,HIGH,Zutrittsprotokoll nicht verfügbar,Sicherheitslücke,"Zutrittsprotokoll nicht verfügbar
+Sicherheitslücke",Sonstige
+BSCH-H-042,HIGH,Defekter Brandmelder Tiefgarage,Brandmelder in der Tiefgarage ist ohne Funktion.,"Defekter Brandmelder Tiefgarage
+Brandmelder in der Tiefgarage ist ohne Funktion.",Brandschutz
+SON-H-066,HIGH,Notfallfreigabe für Türen ohne Funktion,Evakuierung blockiert,"Notfallfreigabe für Türen ohne Funktion
+Evakuierung blockiert",Sonstige
+REIN-M-028,MEDIUM,Leichte Geruchsbelästigung in Fahrradraum,"Geruch wahrnehmbar, vermutlich durch Schmutz; Laub/Schmutzreste.","Leichte Geruchsbelästigung in Fahrradraum
+Geruch wahrnehmbar, vermutlich durch Schmutz; Laub/Schmutzreste.",Reinigung
+BSCH-H-016,HIGH,Feuerlöscher abgelaufen/leer,Der Feuerlöscher ist abgelaufen oder leer und damit unbrauchbar.,"Feuerlöscher abgelaufen/leer
+Der Feuerlöscher ist abgelaufen oder leer und damit unbrauchbar.",Brandschutz
+REIN-L-004,LOW,Leichte Staubschicht in WC,Kaum sichtbare Staubablagerungen; geringer Aufwand.,"Leichte Staubschicht in WC
+Kaum sichtbare Staubablagerungen; geringer Aufwand.",Reinigung
+TF-M-075,MEDIUM,Tür schließt nicht gleichmäßig,Die Tür schließt nicht gleichmäßig.,"Tür schließt nicht gleichmäßig
+Die Tür schließt nicht gleichmäßig.",Türen/Fenster
+TF-H-025,HIGH,Kellerfenster offen und defekt,Ein Kellerfenster ist offen und defekt.,"Kellerfenster offen und defekt
+Ein Kellerfenster ist offen und defekt.",Türen/Fenster
+SM-H-071,HIGH,Schimmelgeruch und Befall im Wohnzimmer,Großflächiger Schimmelbefall an Wand und Decke im Wohnzimmer.,"Schimmelgeruch und Befall im Wohnzimmer
+Großflächiger Schimmelbefall an Wand und Decke im Wohnzimmer.",Schimmel
+REIN-M-064,MEDIUM,Leichte Geruchsbelästigung in Treppenhaus,"Geruch wahrnehmbar, vermutlich durch Schmutz; Laub/Schmutzreste.","Leichte Geruchsbelästigung in Treppenhaus
+Geruch wahrnehmbar, vermutlich durch Schmutz; Laub/Schmutzreste.",Reinigung
+SON-M-006,MEDIUM,Sicherheitskamera unscharf,Bildqualität reduziert,"Sicherheitskamera unscharf
+Bildqualität reduziert",Sonstige
+SM-H-010,HIGH,Massiver Schimmel an Abstellraum-Wand,Starker Schimmel durch anhaltende Feuchtigkeit im Abstellraum.,"Massiver Schimmel an Abstellraum-Wand
+Starker Schimmel durch anhaltende Feuchtigkeit im Abstellraum.",Schimmel
+SW-L-013,LOW,Leichte Rostspuren an Armatur,Keine Beeinträchtigung.,"Leichte Rostspuren an Armatur
+Keine Beeinträchtigung.",Sanitär / Wasser
+BSCH-H-018,HIGH,Notbeleuchtung ausgefallen,Die Notbeleuchtung funktioniert nicht – bei Stromausfall keine Orientierung.,"Notbeleuchtung ausgefallen
+Die Notbeleuchtung funktioniert nicht – bei Stromausfall keine Orientierung.",Brandschutz
+SON-M-007,MEDIUM,Automatische Tür schließt langsam,Betrieb eingeschränkt,"Automatische Tür schließt langsam
+Betrieb eingeschränkt",Sonstige
+HM-064,MEDIUM,Heizleistung schwankt stark,Deutliche Unterschiede in der Heizleistung.,"Heizleistung schwankt stark
+Deutliche Unterschiede in der Heizleistung.",Heizung / Wärmeversorgung
+LAERM-H-075,HIGH,Nächtliches Kreischen von defektem Lüftungsgitter,Ein Lüftungsgitter kreischt nachts extrem laut bei Wind.,"Nächtliches Kreischen von defektem Lüftungsgitter
+Ein Lüftungsgitter kreischt nachts extrem laut bei Wind.",Lärm
+AUSSEN-H-020,HIGH,Große Pfütze bei Frost,Glättebildung durch Wasser,"Große Pfütze bei Frost
+Glättebildung durch Wasser",Außenbereich
+HM-046,MEDIUM,Heizung unzuverlässig,Die Heizleistung ist nicht konstant verfügbar.,"Heizung unzuverlässig
+Die Heizleistung ist nicht konstant verfügbar.",Heizung / Wärmeversorgung
+HM-060,MEDIUM,Heizkörper unterschiedlich warm,Einige Heizkörper werden wärmer als andere.,"Heizkörper unterschiedlich warm
+Einige Heizkörper werden wärmer als andere.",Heizung / Wärmeversorgung
+LAERM-H-008,HIGH,Nächtliche Bauarbeiten im Haus,Nachts werden laute Bauarbeiten durchgeführt,"Nächtliche Bauarbeiten im Haus
+Nachts werden laute Bauarbeiten durchgeführt",Lärm
+A-H-078,HIGH,Aufzug blockiert im gesamten Gebäude,Der Aufzug ist im gesamten Gebäude blockiert.,"Aufzug blockiert im gesamten Gebäude
+Der Aufzug ist im gesamten Gebäude blockiert.",Aufzug
+TF-L-002,LOW,Fensterrahmen verschmutzt,Der Fensterrahmen ist verschmutzt.,"Fensterrahmen verschmutzt
+Der Fensterrahmen ist verschmutzt.",Türen/Fenster
+AUSSEN-M-025,MEDIUM,Unleserliche Beschilderung,Schild kaum lesbar,"Unleserliche Beschilderung
+Schild kaum lesbar",Außenbereich
+LAERM-H-010,HIGH,Extreme Trittschallbelastung,Sehr starke Trittschallgeräusche aus Nachbarwohnung,"Extreme Trittschallbelastung
+Sehr starke Trittschallgeräusche aus Nachbarwohnung",Lärm
+BSCH-H-052,HIGH,Rauchmelder defekt in Wohnung – Bereich 2,Der Rauchmelder in der Wohnung reagiert nicht und muss sofort ersetzt werden. (Betroffen: Tiefgarage).,"Rauchmelder defekt in Wohnung – Bereich 2
+Der Rauchmelder in der Wohnung reagiert nicht und muss sofort ersetzt werden. (Betroffen: Tiefgarage).",Brandschutz
+BSCH-M-045,MEDIUM,Notausgang schwer auffindbar – Bereich 5,Der Notausgang ist schlecht ausgeschildert und schwer zu finden. (Betroffen: Gemeinschaftsfläche).,"Notausgang schwer auffindbar – Bereich 5
+Der Notausgang ist schlecht ausgeschildert und schwer zu finden. (Betroffen: Gemeinschaftsfläche).",Brandschutz
+SON-H-086,HIGH,Notstromtest fehlgeschlagen,Backup unsicher,"Notstromtest fehlgeschlagen
+Backup unsicher",Sonstige
+BS-L-018,LOW,Feiner Riss Innenwand Küche,In der Küchenwand ist ein feiner Riss sichtbar,"Feiner Riss Innenwand Küche
+In der Küchenwand ist ein feiner Riss sichtbar",Bauliche Schäden
+SW-H-081,HIGH,Abwasser läuft in Dusche zurück,Rückstau verursacht Überschwemmung.,"Abwasser läuft in Dusche zurück
+Rückstau verursacht Überschwemmung.",Sanitär / Wasser
+SW-L-028,LOW,Duschschlauch leicht verdreht,Funktion uneingeschränkt.,"Duschschlauch leicht verdreht
+Funktion uneingeschränkt.",Sanitär / Wasser
+SW-M-037,MEDIUM,WC-Spülkasten füllt langsam,Verzögerung nach Spülung.,"WC-Spülkasten füllt langsam
+Verzögerung nach Spülung.",Sanitär / Wasser
+E-L-006,LOW,Lichtschalter quietscht,Beim Betätigen quietscht der Lichtschalter.,"Lichtschalter quietscht
+Beim Betätigen quietscht der Lichtschalter.",Elektro
+SW-H-067,HIGH,Abwasser tritt aus Waschbecken aus,Beim Gebrauch läuft Abwasser hoch.,"Abwasser tritt aus Waschbecken aus
+Beim Gebrauch läuft Abwasser hoch.",Sanitär / Wasser
+REIN-H-058,HIGH,Unrat/Abfall in Gemeinschaftsraum,Müll/Unrat liegt im Gemeinschaftsraum und verursacht Fluchtweg ist beeinträchtigt.,"Unrat/Abfall in Gemeinschaftsraum
+Müll/Unrat liegt im Gemeinschaftsraum und verursacht Fluchtweg ist beeinträchtigt.",Reinigung
+HM-073,MEDIUM,Heizung schwach eingestellt,Die Wärmeleistung ist reduziert.,"Heizung schwach eingestellt
+Die Wärmeleistung ist reduziert.",Heizung / Wärmeversorgung
+BSCH-M-075,MEDIUM,Brandschutzprüfung überfällig – Bereich 35,Die regelmäßige Brandschutzprüfung ist überfällig. (Betroffen: Gebäude).,"Brandschutzprüfung überfällig – Bereich 35
+Die regelmäßige Brandschutzprüfung ist überfällig. (Betroffen: Gebäude).",Brandschutz
+BSCH-L-006,LOW,Rauchmelder vergilbt,"Der Rauchmelder ist optisch vergilbt/alt, funktioniert jedoch.","Rauchmelder vergilbt
+Der Rauchmelder ist optisch vergilbt/alt, funktioniert jedoch.",Brandschutz
+A-H-026,HIGH,Aufzug reagiert auf keine Etage,Der Aufzug akzeptiert keine Etagenwahl.,"Aufzug reagiert auf keine Etage
+Der Aufzug akzeptiert keine Etagenwahl.",Aufzug
+BS-M-041,MEDIUM,Feuchte Stelle Kellerdecke,An der Kellerdecke zeigt sich eine feuchte Stelle,"Feuchte Stelle Kellerdecke
+An der Kellerdecke zeigt sich eine feuchte Stelle",Bauliche Schäden
+REIN-L-013,LOW,Leichte Schlieren in Gemeinschaftsfläche,Schlieren kaum sichtbar; nur lokal begrenzt.,"Leichte Schlieren in Gemeinschaftsfläche
+Schlieren kaum sichtbar; nur lokal begrenzt.",Reinigung
+AUSSEN-H-054,HIGH,Defekte Abdeckung am Schacht,Abdeckung fehlt teilweise,"Defekte Abdeckung am Schacht
+Abdeckung fehlt teilweise",Außenbereich
+AUSSEN-M-018,MEDIUM,Leicht verbogene Absperrbake,Bake steht schief,"Leicht verbogene Absperrbake
+Bake steht schief",Außenbereich
+SM-H-022,HIGH,Massiver Schimmel an Bad-Wand,Schimmel breitet sich schnell aus; Gesundheitsrisiko im Bad.,"Massiver Schimmel an Bad-Wand
+Schimmel breitet sich schnell aus; Gesundheitsrisiko im Bad.",Schimmel
+SM-H-056,HIGH,Schimmel nach Feuchtigkeitsschaden im Flur,Schimmel breitet sich schnell aus; Gesundheitsrisiko im Flur.,"Schimmel nach Feuchtigkeitsschaden im Flur
+Schimmel breitet sich schnell aus; Gesundheitsrisiko im Flur.",Schimmel
+HL-001,LOW,Heizkörper wird oben leicht warm,"Der Heizkörper wird oben leicht warm, heizt aber insgesamt noch ausreichend.","Heizkörper wird oben leicht warm
+Der Heizkörper wird oben leicht warm, heizt aber insgesamt noch ausreichend.",Heizung / Wärmeversorgung
+TF-H-038,HIGH,Notausgang blockiert durch defekte Tür,Die Notausgangstür ist defekt und blockiert.,"Notausgang blockiert durch defekte Tür
+Die Notausgangstür ist defekt und blockiert.",Türen/Fenster
+AUSSEN-L-039,LOW,Verwitterte Holzbank,Holzbank wirkt optisch verwittert.,"Verwitterte Holzbank
+Holzbank wirkt optisch verwittert.",Außenbereich
+E-H-054,HIGH,Stromausfall nach Sicherungsauslösung,Nach Sicherungsauslösung kein Strom mehr vorhanden.,"Stromausfall nach Sicherungsauslösung
+Nach Sicherungsauslösung kein Strom mehr vorhanden.",Elektro
+H-086,HIGH,Keine Wärmeversorgung mehr,Die Heizung liefert keine Wärme.,"Keine Wärmeversorgung mehr
+Die Heizung liefert keine Wärme.",Heizung / Wärmeversorgung
+E-H-090,HIGH,Akuter Stromausfall mit Brandrisiko,Ein akuter Stromausfall mit möglichem Brandrisiko liegt vor.,"Akuter Stromausfall mit Brandrisiko
+Ein akuter Stromausfall mit möglichem Brandrisiko liegt vor.",Elektro
+BSCH-M-029,MEDIUM,Rauchmelder zu empfindlich,Der Rauchmelder löst zu schnell aus (Fehlalarme).,"Rauchmelder zu empfindlich
+Der Rauchmelder löst zu schnell aus (Fehlalarme).",Brandschutz
+AUSSEN-H-051,HIGH,Offene Schächte im Hofbereich,Mehrere Schächte offen,"Offene Schächte im Hofbereich
+Mehrere Schächte offen",Außenbereich
+BS-H-034,HIGH,Bauteil droht abzustürzen,Ein Bauteil über dem Eingang ist locker,"Bauteil droht abzustürzen
+Ein Bauteil über dem Eingang ist locker",Bauliche Schäden
+A-M-078,MEDIUM,Aufzug fährt mit kurzen Stopps,Während der Fahrt gibt es mehrere kurze Stopps ohne Etagenhalt.,"Aufzug fährt mit kurzen Stopps
+Während der Fahrt gibt es mehrere kurze Stopps ohne Etagenhalt.",Aufzug
+SON-L-009,LOW,Beschriftung an Tür verkratzt,Reine optische Beeinträchtigung,"Beschriftung an Tür verkratzt
+Reine optische Beeinträchtigung",Sonstige
+REIN-H-027,HIGH,Rutschgefahr durch ölig in Technikraum,Boden ist ölig und rutschig; Glasscherben/Verletzungsgefahr.,"Rutschgefahr durch ölig in Technikraum
+Boden ist ölig und rutschig; Glasscherben/Verletzungsgefahr.",Reinigung
+H-036,HIGH,Heizung liefert keine Wärme,Alle Heizkörper bleiben kalt.,"Heizung liefert keine Wärme
+Alle Heizkörper bleiben kalt.",Heizung / Wärmeversorgung
+LAERM-H-060,HIGH,Massiver Lärm aus Technikbereich,Der Technikbereich ist extrem laut,"Massiver Lärm aus Technikbereich
+Der Technikbereich ist extrem laut",Lärm
+LAERM-H-023,HIGH,Laute Geräusche aus Aufzugstechnik,Die Aufzugstechnik ist extrem laut,"Laute Geräusche aus Aufzugstechnik
+Die Aufzugstechnik ist extrem laut",Lärm
+BS-M-036,MEDIUM,Unebene Bodenplatte Keller,Die Bodenplatte im Keller ist uneben,"Unebene Bodenplatte Keller
+Die Bodenplatte im Keller ist uneben",Bauliche Schäden
+BSCH-H-054,HIGH,Feuerlöscher abgelaufen/leer – Bereich 4,Der Feuerlöscher ist abgelaufen oder leer und damit unbrauchbar. (Betroffen: Treppenhaus).,"Feuerlöscher abgelaufen/leer – Bereich 4
+Der Feuerlöscher ist abgelaufen oder leer und damit unbrauchbar. (Betroffen: Treppenhaus).",Brandschutz
+TF-H-014,HIGH,Fensterscheibe stark beschädigt,Die Fensterscheibe ist stark beschädigt.,"Fensterscheibe stark beschädigt
+Die Fensterscheibe ist stark beschädigt.",Türen/Fenster
+A-L-008,LOW,Aufzugknöpfe abgenutzt,Die Tasten im Aufzug sind sichtbar abgenutzt.,"Aufzugknöpfe abgenutzt
+Die Tasten im Aufzug sind sichtbar abgenutzt.",Aufzug
+A-H-068,HIGH,Aufzug bleibt bei Regenwetter stehen,Der Aufzug bleibt bei Regenwetter stehen.,"Aufzug bleibt bei Regenwetter stehen
+Der Aufzug bleibt bei Regenwetter stehen.",Aufzug
+A-H-001,HIGH,Aufzug ausgefallen,Der Aufzug ist vollständig ausgefallen und fährt nicht mehr.,"Aufzug ausgefallen
+Der Aufzug ist vollständig ausgefallen und fährt nicht mehr.",Aufzug
+BSCH-M-028,MEDIUM,Brandschutzprüfung überfällig,Die regelmäßige Brandschutzprüfung ist überfällig.,"Brandschutzprüfung überfällig
+Die regelmäßige Brandschutzprüfung ist überfällig.",Brandschutz
+BS-H-016,HIGH,Einsturzgefahr Kellerdecke,Die Kellerdecke zeigt massive Risse und Durchbiegungen,"Einsturzgefahr Kellerdecke
+Die Kellerdecke zeigt massive Risse und Durchbiegungen",Bauliche Schäden
+TF-M-050,MEDIUM,Fenster leicht verzogen,Das Fenster ist leicht verzogen.,"Fenster leicht verzogen
+Das Fenster ist leicht verzogen.",Türen/Fenster
+AUSSEN-L-005,LOW,Verwitterte Markierung,Markierung optisch verblasst,"Verwitterte Markierung
+Markierung optisch verblasst",Außenbereich
+HL-019,LOW,Heizung leicht unregelmäßig,Die Heizleistung schwankt minimal.,"Heizung leicht unregelmäßig
+Die Heizleistung schwankt minimal.",Heizung / Wärmeversorgung
+LAERM-L-020,LOW,Leises Tropfen,Tropfen kaum hörbar,"Leises Tropfen
+Tropfen kaum hörbar",Lärm
+BS-H-007,HIGH,Abplatzender Beton an Fassade,Große Betonstücke lösen sich von der Fassade und drohen herabzufallen,"Abplatzender Beton an Fassade
+Große Betonstücke lösen sich von der Fassade und drohen herabzufallen",Bauliche Schäden
+E-M-046,MEDIUM,Beleuchtung Technikraum teilweise defekt,Im Technikraum ist die Beleuchtung eingeschränkt.,"Beleuchtung Technikraum teilweise defekt
+Im Technikraum ist die Beleuchtung eingeschränkt.",Elektro
+TF-H-059,HIGH,Fenster steht dauerhaft offen,Ein Fenster lässt sich nicht schließen.,"Fenster steht dauerhaft offen
+Ein Fenster lässt sich nicht schließen.",Türen/Fenster
+E-L-014,LOW,Schalter wackelt leicht,Ein Lichtschalter wackelt leicht.,"Schalter wackelt leicht
+Ein Lichtschalter wackelt leicht.",Elektro
+REIN-L-001,LOW,Leichte Schlieren in Keller,Schlieren kaum sichtbar; nur lokal begrenzt.,"Leichte Schlieren in Keller
+Schlieren kaum sichtbar; nur lokal begrenzt.",Reinigung
+SM-L-036,LOW,Schimmelpunkt in Bad-Ecke,"Sehr kleiner, oberflächlicher Schimmelfleck im Bad.","Schimmelpunkt in Bad-Ecke
+Sehr kleiner, oberflächlicher Schimmelfleck im Bad.",Schimmel
+A-H-061,HIGH,Aufzug blockiert nach Stromschwankung,Der Aufzug blockiert nach Stromschwankung.,"Aufzug blockiert nach Stromschwankung
+Der Aufzug blockiert nach Stromschwankung.",Aufzug
+E-H-062,HIGH,Stromausfall bei Beleuchtungssystem,Das zentrale Beleuchtungssystem ist ausgefallen.,"Stromausfall bei Beleuchtungssystem
+Das zentrale Beleuchtungssystem ist ausgefallen.",Elektro
+BS-H-035,HIGH,Einsturzgefahr Dachkonstruktion,Die Dachkonstruktion ist beschädigt,"Einsturzgefahr Dachkonstruktion
+Die Dachkonstruktion ist beschädigt",Bauliche Schäden
+LAERM-M-038,MEDIUM,Aufzugtechnik hörbar,Aufzugtechnik verursacht Geräusche,"Aufzugtechnik hörbar
+Aufzugtechnik verursacht Geräusche",Lärm
+H-005,HIGH,Ausfall Heizung und Warmwasser,Seit gestern Abend stehen weder Heizung noch Warmwasser zur Verfügung.,"Ausfall Heizung und Warmwasser
+Seit gestern Abend stehen weder Heizung noch Warmwasser zur Verfügung.",Heizung / Wärmeversorgung
+SW-M-040,MEDIUM,Leichte Feuchtigkeit an Wandanschluss,Keine Tropfen sichtbar.,"Leichte Feuchtigkeit an Wandanschluss
+Keine Tropfen sichtbar.",Sanitär / Wasser
+A-H-046,HIGH,Aufzug bleibt bei Etagenwechsel stehen,Der Aufzug bleibt beim Etagenwechsel stehen.,"Aufzug bleibt bei Etagenwechsel stehen
+Der Aufzug bleibt beim Etagenwechsel stehen.",Aufzug
+HL-011,LOW,Heizung macht leise Geräusche,Leise Betriebsgeräusche aus dem Heizsystem.,"Heizung macht leise Geräusche
+Leise Betriebsgeräusche aus dem Heizsystem.",Heizung / Wärmeversorgung
+A-M-063,MEDIUM,Aufzugtastenbeleuchtung defekt,Die Beleuchtung der Tasten funktioniert nicht mehr.,"Aufzugtastenbeleuchtung defekt
+Die Beleuchtung der Tasten funktioniert nicht mehr.",Aufzug
+REIN-H-015,HIGH,Unrat/Abfall in Eingang,Müll/Unrat liegt im Eingang und verursacht Fluchtweg ist beeinträchtigt.,"Unrat/Abfall in Eingang
+Müll/Unrat liegt im Eingang und verursacht Fluchtweg ist beeinträchtigt.",Reinigung
+E-H-053,HIGH,Defekte Steckdosen in Wohnung,Mehrere Steckdosen sind defekt und funken.,"Defekte Steckdosen in Wohnung
+Mehrere Steckdosen sind defekt und funken.",Elektro
+SM-M-040,MEDIUM,Leichter Schimmel an Kinderzimmer-Ecke,"Leichter Schimmel sichtbar, vermutlich durch Kondenswasser im Kinderzimmer.","Leichter Schimmel an Kinderzimmer-Ecke
+Leichter Schimmel sichtbar, vermutlich durch Kondenswasser im Kinderzimmer.",Schimmel
+LAERM-H-072,HIGH,Unzumutbarer Lärm durch Baustelle im Innenhof,Im Innenhof laufen extrem laute Arbeiten bereits vor 6 Uhr morgens.,"Unzumutbarer Lärm durch Baustelle im Innenhof
+Im Innenhof laufen extrem laute Arbeiten bereits vor 6 Uhr morgens.",Lärm
+LAERM-H-053,HIGH,Störender Dauerton im Gebäude,Ein Dauerton ist permanent hörbar,"Störender Dauerton im Gebäude
+Ein Dauerton ist permanent hörbar",Lärm
+SW-H-039,HIGH,Leitungswasserschaden im Schlafzimmer,Wasser hat den Boden durchnässt.,"Leitungswasserschaden im Schlafzimmer
+Wasser hat den Boden durchnässt.",Sanitär / Wasser
+E-L-027,LOW,Lichtfarbe im Bad ungleichmäßig,Die Lichtfarbe im Bad wirkt ungleichmäßig.,"Lichtfarbe im Bad ungleichmäßig
+Die Lichtfarbe im Bad wirkt ungleichmäßig.",Elektro
+REIN-M-001,MEDIUM,Unordnung im Müllplatz,Bereich wirkt ungepflegt; optisch störend.,"Unordnung im Müllplatz
+Bereich wirkt ungepflegt; optisch störend.",Reinigung
+BSCH-M-010,MEDIUM,Feuerlöscher Prüfsiegel fehlt,Am Feuerlöscher fehlt das aktuelle Prüfsiegel/Prüfdatum.,"Feuerlöscher Prüfsiegel fehlt
+Am Feuerlöscher fehlt das aktuelle Prüfsiegel/Prüfdatum.",Brandschutz
+LAERM-H-029,HIGH,Laute metallische Geräusche,Metallische Geräusche aus Gebäudetechnik,"Laute metallische Geräusche
+Metallische Geräusche aus Gebäudetechnik",Lärm
+LAERM-H-005,HIGH,Schlaf massiv gestört durch Lärm,Starker Lärm verhindert seit Tagen erholsamen Schlaf,"Schlaf massiv gestört durch Lärm
+Starker Lärm verhindert seit Tagen erholsamen Schlaf",Lärm
+HL-023,LOW,Heizkörper handwarm,Der Heizkörper erreicht nur eine mittlere Temperatur.,"Heizkörper handwarm
+Der Heizkörper erreicht nur eine mittlere Temperatur.",Heizung / Wärmeversorgung
+LAERM-H-025,HIGH,Starkes Pfeifen aus Leitung,Ein lautes Pfeifen aus einer Leitung ist hörbar,"Starkes Pfeifen aus Leitung
+Ein lautes Pfeifen aus einer Leitung ist hörbar",Lärm
+SM-M-074,MEDIUM,Leichter Schimmel an Abstellraum-Ecke,"Begrenzte Schimmelstellen im Abstellraum, aktuell lokal begrenzt.","Leichter Schimmel an Abstellraum-Ecke
+Begrenzte Schimmelstellen im Abstellraum, aktuell lokal begrenzt.",Schimmel
+BSCH-H-034,HIGH,Notausgang schlecht gekennzeichnet,Notausgänge sind nicht oder unzureichend gekennzeichnet.,"Notausgang schlecht gekennzeichnet
+Notausgänge sind nicht oder unzureichend gekennzeichnet.",Brandschutz
+E-M-050,MEDIUM,Steckdose schwer nutzbar,Der Stecker hält schlecht in der Steckdose.,"Steckdose schwer nutzbar
+Der Stecker hält schlecht in der Steckdose.",Elektro
+BSCH-H-013,HIGH,Feuerlöscher fehlt,Am vorgesehenen Standort fehlt ein Feuerlöscher vollständig.,"Feuerlöscher fehlt
+Am vorgesehenen Standort fehlt ein Feuerlöscher vollständig.",Brandschutz
+SW-H-077,HIGH,Kein Wasser in mehreren Stockwerken,Mehrere Etagen betroffen.,"Kein Wasser in mehreren Stockwerken
+Mehrere Etagen betroffen.",Sanitär / Wasser
+A-M-017,MEDIUM,Aufzug bleibt kurz im Erdgeschoss stehen,Der Aufzug bleibt kurz im Erdgeschoss stehen.,"Aufzug bleibt kurz im Erdgeschoss stehen
+Der Aufzug bleibt kurz im Erdgeschoss stehen.",Aufzug
+AUSSEN-H-029,HIGH,Großer Ast blockiert Eingang,Eingang nicht passierbar,"Großer Ast blockiert Eingang
+Eingang nicht passierbar",Außenbereich
+LAERM-L-011,LOW,Leichtes Klirren,Gelegentliches Klirren hörbar,"Leichtes Klirren
+Gelegentliches Klirren hörbar",Lärm
+LAERM-M-019,MEDIUM,Technikraum hörbar,Der Technikraum ist deutlich hörbar,"Technikraum hörbar
+Der Technikraum ist deutlich hörbar",Lärm
+BSCH-H-019,HIGH,Offene elektrische Leitung,Offene/blanke Leitungen stellen eine akute Brandgefahr dar.,"Offene elektrische Leitung
+Offene/blanke Leitungen stellen eine akute Brandgefahr dar.",Brandschutz
+A-H-019,HIGH,Aufzug fährt ruckartig nach unten,Der Aufzug fährt ruckartig nach unten.,"Aufzug fährt ruckartig nach unten
+Der Aufzug fährt ruckartig nach unten.",Aufzug
+A-L-032,LOW,Aufzugboden hat Flecken,Der Boden weist Flecken auf.,"Aufzugboden hat Flecken
+Der Boden weist Flecken auf.",Aufzug
+LAERM-M-050,MEDIUM,Geräusche bei Nutzung von Technik,Bei Nutzung entsteht Lärm,"Geräusche bei Nutzung von Technik
+Bei Nutzung entsteht Lärm",Lärm
+SW-M-006,MEDIUM,Warmwasser schwankt zeitweise,Die Temperatur ändert sich unregelmäßig.,"Warmwasser schwankt zeitweise
+Die Temperatur ändert sich unregelmäßig.",Sanitär / Wasser
+BS-H-080,HIGH,Tragwerksproblem nach Umbau,Nach einem Umbau traten statische Probleme auf,"Tragwerksproblem nach Umbau
+Nach einem Umbau traten statische Probleme auf",Bauliche Schäden
+BSCH-L-013,LOW,Brandschutztür mit Kratzern,Die Brandschutztür weist kleinere Kratzer auf.,"Brandschutztür mit Kratzern
+Die Brandschutztür weist kleinere Kratzer auf.",Brandschutz
+H-028,HIGH,Totalausfall Wärmeversorgung,Es ist keine Beheizung der Räume mehr möglich.,"Totalausfall Wärmeversorgung
+Es ist keine Beheizung der Räume mehr möglich.",Heizung / Wärmeversorgung
+E-H-037,HIGH,Stromausfall nach Kurzschluss,Nach einem Kurzschluss ist der Strom komplett weg.,"Stromausfall nach Kurzschluss
+Nach einem Kurzschluss ist der Strom komplett weg.",Elektro
+BS-H-073,HIGH,Rissbildung Fundament,Das Fundament weist deutliche Risse auf,"Rissbildung Fundament
+Das Fundament weist deutliche Risse auf",Bauliche Schäden
+SW-H-041,HIGH,Wasserrohr beschädigt nach Frost,Nach Frost ist ein Rohr geplatzt.,"Wasserrohr beschädigt nach Frost
+Nach Frost ist ein Rohr geplatzt.",Sanitär / Wasser
+LAERM-L-040,LOW,Leichtes Geräusch bei Temperaturänderung,Geräusch bei Temperaturwechsel minimal,"Leichtes Geräusch bei Temperaturänderung
+Geräusch bei Temperaturwechsel minimal",Lärm
+SW-H-032,HIGH,Wasser läuft aus Wandanschluss,Starker Wasseraustritt aus Wandarmatur.,"Wasser läuft aus Wandanschluss
+Starker Wasseraustritt aus Wandarmatur.",Sanitär / Wasser
+TF-M-066,MEDIUM,Fenster klappert bei Sturm,Das Fenster klappert bei Sturm.,"Fenster klappert bei Sturm
+Das Fenster klappert bei Sturm.",Türen/Fenster
+TF-M-072,MEDIUM,Fenstermechanik hakelig,Die Fenstermechanik ist hakelig.,"Fenstermechanik hakelig
+Die Fenstermechanik ist hakelig.",Türen/Fenster
+E-H-010,HIGH,Elektrik knistert hörbar,Aus der Wand sind knisternde Geräusche der Elektrik zu hören.,"Elektrik knistert hörbar
+Aus der Wand sind knisternde Geräusche der Elektrik zu hören.",Elektro
+BSCH-L-011,LOW,Feuerlöscher etwas verstaubt,"Der Feuerlöscher ist verstaubt, Reinigung empfohlen.","Feuerlöscher etwas verstaubt
+Der Feuerlöscher ist verstaubt, Reinigung empfohlen.",Brandschutz
+LAERM-M-064,MEDIUM,Toranlage verursacht lautes Rumpeln,Beim Öffnen rumpelt die Toranlage deutlich.,"Toranlage verursacht lautes Rumpeln
+Beim Öffnen rumpelt die Toranlage deutlich.",Lärm
+REIN-L-050,LOW,Staub auf Oberflächen in Eingang,Minimaler Reinigungsbedarf; keine Beeinträchtigung.,"Staub auf Oberflächen in Eingang
+Minimaler Reinigungsbedarf; keine Beeinträchtigung.",Reinigung
+LAERM-M-036,MEDIUM,Maschinenbetrieb hörbar,Maschinenbetrieb ist deutlich hörbar,"Maschinenbetrieb hörbar
+Maschinenbetrieb ist deutlich hörbar",Lärm
+H-065,HIGH,Totalausfall Wärmeversorgung Gebäude,Das Gebäude ist komplett ohne Heizung.,"Totalausfall Wärmeversorgung Gebäude
+Das Gebäude ist komplett ohne Heizung.",Heizung / Wärmeversorgung
+A-M-030,MEDIUM,Aufzug macht Knackgeräusche,Beim Betrieb sind Knackgeräusche hörbar.,"Aufzug macht Knackgeräusche
+Beim Betrieb sind Knackgeräusche hörbar.",Aufzug
+SM-H-011,HIGH,Starker Schimmel im Treppenhaus,Schimmel breitet sich schnell aus; Gesundheitsrisiko im Treppenhaus.,"Starker Schimmel im Treppenhaus
+Schimmel breitet sich schnell aus; Gesundheitsrisiko im Treppenhaus.",Schimmel
+AUSSEN-H-062,HIGH,Offener Kabelschacht,Kabel sichtbar,"Offener Kabelschacht
+Kabel sichtbar",Außenbereich
+SW-M-004,MEDIUM,WC-Spülung funktioniert verzögert,Die Spülung benötigt mehrere Versuche.,"WC-Spülung funktioniert verzögert
+Die Spülung benötigt mehrere Versuche.",Sanitär / Wasser
+SON-H-005,HIGH,Notrufsystem ausgefallen,Keine Notfallkommunikation möglich,"Notrufsystem ausgefallen
+Keine Notfallkommunikation möglich",Sonstige
+SM-H-012,HIGH,Schimmel nach Feuchtigkeitsschaden im Waschküche,Großflächiger Schimmelbefall an Wand und Decke im Waschküche.,"Schimmel nach Feuchtigkeitsschaden im Waschküche
+Großflächiger Schimmelbefall an Wand und Decke im Waschküche.",Schimmel
+BS-H-023,HIGH,Schiefstellung Gebäudeteil,Ein Gebäudeteil ist sichtbar schief gestellt,"Schiefstellung Gebäudeteil
+Ein Gebäudeteil ist sichtbar schief gestellt",Bauliche Schäden
+BS-L-013,LOW,Haarriss Treppenhauswand,Ein feiner Haarriss im Treppenhaus,"Haarriss Treppenhauswand
+Ein feiner Haarriss im Treppenhaus",Bauliche Schäden
+A-H-007,HIGH,Aufzug ruckelt stark,Der Aufzug ruckelt extrem während der Fahrt.,"Aufzug ruckelt stark
+Der Aufzug ruckelt extrem während der Fahrt.",Aufzug
+REIN-H-062,HIGH,Unrat/Abfall in Technikbereich,Müll/Unrat liegt im Technikbereich und verursacht Öl-/Chemiespur.,"Unrat/Abfall in Technikbereich
+Müll/Unrat liegt im Technikbereich und verursacht Öl-/Chemiespur.",Reinigung
+SON-M-043,MEDIUM,Digitale Türfreigabe reagiert träge,Bedienung eingeschränkt,"Digitale Türfreigabe reagiert träge
+Bedienung eingeschränkt",Sonstige
+HM-029,MEDIUM,Heizung reagiert unzuverlässig,Die Heizungssteuerung arbeitet nicht konstant.,"Heizung reagiert unzuverlässig
+Die Heizungssteuerung arbeitet nicht konstant.",Heizung / Wärmeversorgung
+SON-H-011,HIGH,Sicherheitskamera ausgefallen,Bereich nicht überwachbar,"Sicherheitskamera ausgefallen
+Bereich nicht überwachbar",Sonstige
+AUSSEN-L-028,LOW,Verblasste Außenmarkierung,Markierung kaum sichtbar,"Verblasste Außenmarkierung
+Markierung kaum sichtbar",Außenbereich
+BS-H-038,HIGH,Tragender Pfeiler beschädigt,Ein tragender Pfeiler ist stark beschädigt,"Tragender Pfeiler beschädigt
+Ein tragender Pfeiler ist stark beschädigt",Bauliche Schäden
+A-L-004,LOW,Aufzugtüren quietschen leise,Die Aufzugstüren quietschen leicht beim Öffnen.,"Aufzugtüren quietschen leise
+Die Aufzugstüren quietschen leicht beim Öffnen.",Aufzug
+BSCH-H-090,HIGH,Brandmeldeanlage Totalausfall – Bereich 40,"Die zentrale Brandmeldeanlage meldet Totalausfall, keine Alarmierung möglich. (Betroffen: Dachboden).","Brandmeldeanlage Totalausfall – Bereich 40
+Die zentrale Brandmeldeanlage meldet Totalausfall, keine Alarmierung möglich. (Betroffen: Dachboden).",Brandschutz
+LAERM-H-076,HIGH,Extrem lautes Klopfen im Heizkörper,"Ein Heizkörper klopft so laut, dass Schlaf unmöglich ist.","Extrem lautes Klopfen im Heizkörper
+Ein Heizkörper klopft so laut, dass Schlaf unmöglich ist.",Lärm
+TF-L-018,LOW,Fensterrahmen fleckig,Der Fensterrahmen ist fleckig.,"Fensterrahmen fleckig
+Der Fensterrahmen ist fleckig.",Türen/Fenster
+BSCH-H-057,HIGH,Defekte Fluchtwegbeleuchtung – Bereich 7,Die Beleuchtung des Fluchtwegs ist vollständig ausgefallen. (Betroffen: Wohnung).,"Defekte Fluchtwegbeleuchtung – Bereich 7
+Die Beleuchtung des Fluchtwegs ist vollständig ausgefallen. (Betroffen: Wohnung).",Brandschutz
+HM-002,MEDIUM,Wohnung wird ungleichmäßig warm,Einige Räume bleiben deutlich kühler als andere.,"Wohnung wird ungleichmäßig warm
+Einige Räume bleiben deutlich kühler als andere.",Heizung / Wärmeversorgung
+BSCH-M-031,MEDIUM,Notbeleuchtung sehr dunkel,"Die Notbeleuchtung ist ungewöhnlich dunkel, Austausch notwendig.","Notbeleuchtung sehr dunkel
+Die Notbeleuchtung ist ungewöhnlich dunkel, Austausch notwendig.",Brandschutz
+A-M-070,MEDIUM,Aufzugtür schließt nicht bündig,"Die Aufzugtür schließt, bleibt aber leicht versetzt stehen.","Aufzugtür schließt nicht bündig
+Die Aufzugtür schließt, bleibt aber leicht versetzt stehen.",Aufzug
+HM-033,MEDIUM,Temperaturregelung unpräzise,Eingestellte Temperaturen werden nicht eingehalten.,"Temperaturregelung unpräzise
+Eingestellte Temperaturen werden nicht eingehalten.",Heizung / Wärmeversorgung
+TF-H-020,HIGH,Wohnungstür nicht abschließbar,Die Wohnungstür kann nicht abgeschlossen werden.,"Wohnungstür nicht abschließbar
+Die Wohnungstür kann nicht abgeschlossen werden.",Türen/Fenster
+HM-009,MEDIUM,Heizung arbeitet unregelmäßig,Die Heizungsanlage schaltet sich sporadisch ein und aus.,"Heizung arbeitet unregelmäßig
+Die Heizungsanlage schaltet sich sporadisch ein und aus.",Heizung / Wärmeversorgung
+H-088,HIGH,Totalausfall Heizleistung,Alle Heizkörper bleiben kalt.,"Totalausfall Heizleistung
+Alle Heizkörper bleiben kalt.",Heizung / Wärmeversorgung
+BS-H-017,HIGH,Abbruchkante an Treppe,An der Treppe fehlen Teile der Stufenstruktur,"Abbruchkante an Treppe
+An der Treppe fehlen Teile der Stufenstruktur",Bauliche Schäden
+E-M-076,MEDIUM,Steckdose im Kinderzimmer ohne Strom,Die Steckdose im Kinderzimmer funktioniert nicht.,"Steckdose im Kinderzimmer ohne Strom
+Die Steckdose im Kinderzimmer funktioniert nicht.",Elektro
+E-H-072,HIGH,Stromausfall bei Sicherheitssystem,Das Sicherheitssystem ist ohne Strom.,"Stromausfall bei Sicherheitssystem
+Das Sicherheitssystem ist ohne Strom.",Elektro
+E-M-034,MEDIUM,Defekter Dimmschalter,Ein Dimmschalter reagiert nicht mehr.,"Defekter Dimmschalter
+Ein Dimmschalter reagiert nicht mehr.",Elektro
+AUSSEN-M-066,MEDIUM,Pflasterfuge ausgewaschen,"Fugen sind ausgewaschen, einzelne Steine werden locker.","Pflasterfuge ausgewaschen
+Fugen sind ausgewaschen, einzelne Steine werden locker.",Außenbereich
+H-035,HIGH,Heizungsstörung Wohnung,Die Wohnung kann nicht mehr beheizt werden.,"Heizungsstörung Wohnung
+Die Wohnung kann nicht mehr beheizt werden.",Heizung / Wärmeversorgung
+A-H-048,HIGH,Aufzug bleibt nach Fehlermeldung stehen,Der Aufzug stoppt nach einer Fehlermeldung.,"Aufzug bleibt nach Fehlermeldung stehen
+Der Aufzug stoppt nach einer Fehlermeldung.",Aufzug
+A-H-013,HIGH,Aufzug fährt nur sporadisch,Der Aufzug fährt nur gelegentlich.,"Aufzug fährt nur sporadisch
+Der Aufzug fährt nur gelegentlich.",Aufzug
+HM-011,MEDIUM,Wohnung nicht ausreichend beheizt,Trotz laufender Heizung bleibt die Wohnung kühl.,"Wohnung nicht ausreichend beheizt
+Trotz laufender Heizung bleibt die Wohnung kühl.",Heizung / Wärmeversorgung
+SW-H-006,HIGH,Toilette vollständig verstopft,Die Toilette ist nicht mehr nutzbar und läuft über.,"Toilette vollständig verstopft
+Die Toilette ist nicht mehr nutzbar und läuft über.",Sanitär / Wasser
+E-H-079,HIGH,Defekter Sicherungsautomat,Ein Sicherungsautomat ist defekt.,"Defekter Sicherungsautomat
+Ein Sicherungsautomat ist defekt.",Elektro
+SM-M-016,MEDIUM,Schimmel durch Kondenswasser im Küche,Schimmel an Fensterbereich im Küche festgestellt.,"Schimmel durch Kondenswasser im Küche
+Schimmel an Fensterbereich im Küche festgestellt.",Schimmel
+A-M-031,MEDIUM,Aufzug bleibt kurz bei Etage eins stehen,Der Aufzug bleibt kurz bei Etage eins stehen.,"Aufzug bleibt kurz bei Etage eins stehen
+Der Aufzug bleibt kurz bei Etage eins stehen.",Aufzug
+H-063,HIGH,Ausfall Heizungsbetrieb,Die Heizungsanlage ist nicht mehr aktiv.,"Ausfall Heizungsbetrieb
+Die Heizungsanlage ist nicht mehr aktiv.",Heizung / Wärmeversorgung
+TF-M-039,MEDIUM,Tür schließt nicht sauber,Die Tür schließt nicht sauber.,"Tür schließt nicht sauber
+Die Tür schließt nicht sauber.",Türen/Fenster
+SM-H-025,HIGH,Großflächiger Schimmelbefall im Dachgeschoss,Starker Schimmel durch anhaltende Feuchtigkeit im Dachgeschoss.,"Großflächiger Schimmelbefall im Dachgeschoss
+Starker Schimmel durch anhaltende Feuchtigkeit im Dachgeschoss.",Schimmel
+LAERM-H-050,HIGH,Lautes Schlagen aus Aufzugsschacht,Schlagende Geräusche aus Aufzugsschacht,"Lautes Schlagen aus Aufzugsschacht
+Schlagende Geräusche aus Aufzugsschacht",Lärm
+SM-H-047,HIGH,Starker Schimmel im Heizungsraum,"Massiver Schimmel sichtbar, Ausbreitung im Heizungsraum deutlich erkennbar.","Starker Schimmel im Heizungsraum
+Massiver Schimmel sichtbar, Ausbreitung im Heizungsraum deutlich erkennbar.",Schimmel
+SW-M-023,MEDIUM,Wasserhahn quietscht beim Öffnen,Geräusche bei Nutzung.,"Wasserhahn quietscht beim Öffnen
+Geräusche bei Nutzung.",Sanitär / Wasser
+LAERM-L-029,LOW,Leises Knarren der Tür,Eine Tür knarrt leicht,"Leises Knarren der Tür
+Eine Tür knarrt leicht",Lärm
+AUSSEN-M-069,MEDIUM,Entwässerungsrinne verschmutzt,"Die Rinne ist verschmutzt, Wasser läuft verzögert ab.","Entwässerungsrinne verschmutzt
+Die Rinne ist verschmutzt, Wasser läuft verzögert ab.",Außenbereich
+SON-M-010,MEDIUM,Zugangscodes nicht aktuell,Mehrere Nutzer betroffen,"Zugangscodes nicht aktuell
+Mehrere Nutzer betroffen",Sonstige
+TF-H-028,HIGH,Glaseinsatz in Tür beschädigt,Der Glaseinsatz in der Tür ist beschädigt.,"Glaseinsatz in Tür beschädigt
+Der Glaseinsatz in der Tür ist beschädigt.",Türen/Fenster
+LAERM-M-065,MEDIUM,Geräusche aus Technikschrank,Aus einem Technikschrank sind regelmäßig Geräusche hörbar.,"Geräusche aus Technikschrank
+Aus einem Technikschrank sind regelmäßig Geräusche hörbar.",Lärm
+E-H-051,HIGH,Elektrische Anlage instabil,Die elektrische Anlage ist instabil und fällt regelmäßig aus.,"Elektrische Anlage instabil
+Die elektrische Anlage ist instabil und fällt regelmäßig aus.",Elektro
+SON-M-001,MEDIUM,Zutrittskarte funktioniert gelegentlich,Karte wird nicht immer erkannt,"Zutrittskarte funktioniert gelegentlich
+Karte wird nicht immer erkannt",Sonstige
+REIN-H-068,HIGH,Ungeziefer durch Verschmutzung in Eingang,Aufgrund von Abfällen wurden Schimmelähnliche Ablagerungen im Bereich Eingang gesichtet.,"Ungeziefer durch Verschmutzung in Eingang
+Aufgrund von Abfällen wurden Schimmelähnliche Ablagerungen im Bereich Eingang gesichtet.",Reinigung
+SW-M-008,MEDIUM,WC läuft kurz nach,Nach dem Spülen läuft Wasser kurz weiter.,"WC läuft kurz nach
+Nach dem Spülen läuft Wasser kurz weiter.",Sanitär / Wasser
+HL-029,LOW,Heizkörper knistert,Beim Betrieb sind leichte Geräusche hörbar.,"Heizkörper knistert
+Beim Betrieb sind leichte Geräusche hörbar.",Heizung / Wärmeversorgung
+BS-M-056,MEDIUM,Leichte Rissbildung Außenwand,An der Außenwand sind kleine Risse sichtbar,"Leichte Rissbildung Außenwand
+An der Außenwand sind kleine Risse sichtbar",Bauliche Schäden
+E-L-037,LOW,Steckdose ohne Kindersicherung,Eine Steckdose hat keine Kindersicherung.,"Steckdose ohne Kindersicherung
+Eine Steckdose hat keine Kindersicherung.",Elektro
+AUSSEN-M-028,MEDIUM,Außenwand verschmutzt,Verschmutzungen sichtbar,"Außenwand verschmutzt
+Verschmutzungen sichtbar",Außenbereich
+E-M-003,MEDIUM,Mehrere Lampen defekt,Mehrere Lampen in der Wohnung funktionieren nicht.,"Mehrere Lampen defekt
+Mehrere Lampen in der Wohnung funktionieren nicht.",Elektro
+A-L-039,LOW,Aufzuganzeige leicht verschmutzt,Die Anzeige ist leicht verschmutzt.,"Aufzuganzeige leicht verschmutzt
+Die Anzeige ist leicht verschmutzt.",Aufzug
+REIN-H-022,HIGH,Rutschgefahr durch verschmiert in Eingang,Boden ist verschmiert und rutschig; Öl-/Chemiespur.,"Rutschgefahr durch verschmiert in Eingang
+Boden ist verschmiert und rutschig; Öl-/Chemiespur.",Reinigung
+REIN-M-039,MEDIUM,Leichte Geruchsbelästigung in Hof,"Geruch wahrnehmbar, vermutlich durch Schmutz; Flecken sichtbar.","Leichte Geruchsbelästigung in Hof
+Geruch wahrnehmbar, vermutlich durch Schmutz; Flecken sichtbar.",Reinigung
+TF-M-058,MEDIUM,Fenstermechanik nicht optimal,Die Fenstermechanik funktioniert nicht optimal.,"Fenstermechanik nicht optimal
+Die Fenstermechanik funktioniert nicht optimal.",Türen/Fenster
+SM-M-028,MEDIUM,Schimmel durch Kondenswasser im Abstellraum,"Schimmel an Sockelleiste im Abstellraum, noch nicht großflächig.","Schimmel durch Kondenswasser im Abstellraum
+Schimmel an Sockelleiste im Abstellraum, noch nicht großflächig.",Schimmel
+LAERM-M-020,MEDIUM,Brummen aus Heizungsanlage,Die Heizung erzeugt hörbare Geräusche,"Brummen aus Heizungsanlage
+Die Heizung erzeugt hörbare Geräusche",Lärm
+AUSSEN-M-054,MEDIUM,Verschobene Pflasterkante,Kante nicht bündig,"Verschobene Pflasterkante
+Kante nicht bündig",Außenbereich
+SON-H-029,HIGH,Digitale Zeiterfassung ausgefallen,Betrieb nicht dokumentierbar,"Digitale Zeiterfassung ausgefallen
+Betrieb nicht dokumentierbar",Sonstige
+E-L-017,LOW,Schalter reagiert träge,Ein Lichtschalter reagiert etwas träge.,"Schalter reagiert träge
+Ein Lichtschalter reagiert etwas träge.",Elektro
+LAERM-L-005,LOW,Leise Lüftungsgeräusche,Lüftung ist leicht hörbar,"Leise Lüftungsgeräusche
+Lüftung ist leicht hörbar",Lärm
+E-H-008,HIGH,Beleuchtung komplett ausgefallen,Die gesamte Beleuchtung im Treppenhaus ist ausgefallen.,"Beleuchtung komplett ausgefallen
+Die gesamte Beleuchtung im Treppenhaus ist ausgefallen.",Elektro
+A-L-030,LOW,Aufzugkabine riecht leicht,Leichter Geruch in der Kabine.,"Aufzugkabine riecht leicht
+Leichter Geruch in der Kabine.",Aufzug
+BS-H-088,HIGH,Einsturzgefährdete Wand Küche,Die Küchenwand wirkt einsturzgefährdet,"Einsturzgefährdete Wand Küche
+Die Küchenwand wirkt einsturzgefährdet",Bauliche Schäden
+A-M-033,MEDIUM,Aufzug zeigt unklare Meldung,Der Aufzug zeigt eine unklare Meldung.,"Aufzug zeigt unklare Meldung
+Der Aufzug zeigt eine unklare Meldung.",Aufzug
+BSCH-H-010,HIGH,Notausgangstür lässt sich nicht öffnen,Die Notausgangstür ist defekt/verklemmt und kann nicht geöffnet werden.,"Notausgangstür lässt sich nicht öffnen
+Die Notausgangstür ist defekt/verklemmt und kann nicht geöffnet werden.",Brandschutz
+BS-L-042,LOW,Leichte Abnutzung an Wandfarbe,"Die Wandfarbe ist leicht abgenutzt, nur optisch.","Leichte Abnutzung an Wandfarbe
+Die Wandfarbe ist leicht abgenutzt, nur optisch.",Bauliche Schäden
+LAERM-M-053,MEDIUM,Maschinengeräusche im Hintergrund,Maschinengeräusche im Hintergrund hörbar,"Maschinengeräusche im Hintergrund
+Maschinengeräusche im Hintergrund hörbar",Lärm
+BS-H-061,HIGH,Großflächige Betonabplatzungen,Großflächige Abplatzungen an Betonflächen,"Großflächige Betonabplatzungen
+Großflächige Abplatzungen an Betonflächen",Bauliche Schäden
+AUSSEN-M-027,MEDIUM,Leicht verstopfter Ablauf,Wasser läuft langsam ab,"Leicht verstopfter Ablauf
+Wasser läuft langsam ab",Außenbereich
+HL-049,LOW,Heizung etwas ineffizient,Optimierung der Heizkurve empfohlen.,"Heizung etwas ineffizient
+Optimierung der Heizkurve empfohlen.",Heizung / Wärmeversorgung
+E-L-048,LOW,Lampe im Keller vergilbt,Eine Lampe im Keller ist vergilbt.,"Lampe im Keller vergilbt
+Eine Lampe im Keller ist vergilbt.",Elektro
+HL-018,LOW,Heizkörper wird nicht gleichmäßig warm,Einzelne Stellen bleiben kühler.,"Heizkörper wird nicht gleichmäßig warm
+Einzelne Stellen bleiben kühler.",Heizung / Wärmeversorgung
+BS-H-014,HIGH,Betonabbruch im Parkhaus,Im Parkhaus lösen sich größere Betonteile von der Decke,"Betonabbruch im Parkhaus
+Im Parkhaus lösen sich größere Betonteile von der Decke",Bauliche Schäden
+BS-M-058,MEDIUM,Feuchte Stelle Wohnzimmerwand,In der Wohnzimmerwand ist eine feuchte Stelle,"Feuchte Stelle Wohnzimmerwand
+In der Wohnzimmerwand ist eine feuchte Stelle",Bauliche Schäden
+AUSSEN-L-026,LOW,Leichte Abnutzung an Pflasterkante,Kante optisch abgenutzt,"Leichte Abnutzung an Pflasterkante
+Kante optisch abgenutzt",Außenbereich
+LAERM-L-024,LOW,Geringe Geräusche aus Technikraum,Technikraum leicht hörbar,"Geringe Geräusche aus Technikraum
+Technikraum leicht hörbar",Lärm
+BSCH-H-017,HIGH,Notbeleuchtung ausgefallen,Die Notbeleuchtung funktioniert nicht – bei Stromausfall keine Orientierung.,"Notbeleuchtung ausgefallen
+Die Notbeleuchtung funktioniert nicht – bei Stromausfall keine Orientierung.",Brandschutz
+SW-M-012,MEDIUM,Toilette spült ungleichmäßig,Die Spülleistung ist reduziert.,"Toilette spült ungleichmäßig
+Die Spülleistung ist reduziert.",Sanitär / Wasser
+SW-H-070,HIGH,Wasser tritt aus Heizungsraum aus,Starker Wasseraustritt im Technikraum.,"Wasser tritt aus Heizungsraum aus
+Starker Wasseraustritt im Technikraum.",Sanitär / Wasser
+BSCH-L-035,LOW,Rauchmelder vergilbt – Bereich 15,"Der Rauchmelder ist optisch vergilbt/alt, funktioniert jedoch. (Betroffen: Gebäude).","Rauchmelder vergilbt – Bereich 15
+Der Rauchmelder ist optisch vergilbt/alt, funktioniert jedoch. (Betroffen: Gebäude).",Brandschutz
+SON-M-026,MEDIUM,Serverüberwachung zeigt unklare Werte,Analyse erforderlich,"Serverüberwachung zeigt unklare Werte
+Analyse erforderlich",Sonstige
+AUSSEN-H-088,HIGH,Lockere Mauerabdeckung,Eine Mauerabdeckung ist locker und könnte herabfallen.,"Lockere Mauerabdeckung
+Eine Mauerabdeckung ist locker und könnte herabfallen.",Außenbereich
+SON-M-036,MEDIUM,Intercom-Knopf reagiert verzögert,Mehrfaches Drücken nötig,"Intercom-Knopf reagiert verzögert
+Mehrfaches Drücken nötig",Sonstige
+SM-L-046,LOW,Leichte Schimmelverfärbung im Sockelleiste,"Leichte Verfärbung durch Schimmel im Sockelleiste, punktuell.","Leichte Schimmelverfärbung im Sockelleiste
+Leichte Verfärbung durch Schimmel im Sockelleiste, punktuell.",Schimmel
+BSCH-H-045,HIGH,Notausgang verstellt (Fahrräder),Fahrräder/Abfall blockieren den Notausgang vollständig.,"Notausgang verstellt (Fahrräder)
+Fahrräder/Abfall blockieren den Notausgang vollständig.",Brandschutz
+BSCH-L-046,LOW,Fluchtwegmarkierung verblasst – Bereich 26,Die Fluchtwegmarkierung wirkt etwas verblasst. (Betroffen: Dachboden).,"Fluchtwegmarkierung verblasst – Bereich 26
+Die Fluchtwegmarkierung wirkt etwas verblasst. (Betroffen: Dachboden).",Brandschutz
+SW-H-023,HIGH,Abwasser im Keller,Abwasser tritt im Kellerbereich aus.,"Abwasser im Keller
+Abwasser tritt im Kellerbereich aus.",Sanitär / Wasser
+SON-H-009,HIGH,Zeitschaltuhr außer Betrieb,Sicherheitsbeleuchtung betroffen,"Zeitschaltuhr außer Betrieb
+Sicherheitsbeleuchtung betroffen",Sonstige
+SW-H-072,HIGH,Starker Wasserschaden im Wohnzimmer,Boden und Wände sind durchnässt.,"Starker Wasserschaden im Wohnzimmer
+Boden und Wände sind durchnässt.",Sanitär / Wasser
+LAERM-H-006,HIGH,Dauerbrummen aus Technikraum,Extrem lautes Brummen aus dem Technikraum,"Dauerbrummen aus Technikraum
+Extrem lautes Brummen aus dem Technikraum",Lärm
+SON-M-021,MEDIUM,Automatische Schranke öffnet verzögert,Wartezeiten entstehen,"Automatische Schranke öffnet verzögert
+Wartezeiten entstehen",Sonstige
+SM-M-025,MEDIUM,Schimmel durch Kondenswasser im Kinderzimmer,Schimmelbildung an einer kühlen Stelle im Kinderzimmer.,"Schimmel durch Kondenswasser im Kinderzimmer
+Schimmelbildung an einer kühlen Stelle im Kinderzimmer.",Schimmel
+E-H-061,HIGH,Elektrische Anlage kurz vor Brand,Die Elektrik zeigt starke Überhitzung.,"Elektrische Anlage kurz vor Brand
+Die Elektrik zeigt starke Überhitzung.",Elektro
+SON-H-030,HIGH,Automatische Schranke blockiert,Zufahrt nicht steuerbar,"Automatische Schranke blockiert
+Zufahrt nicht steuerbar",Sonstige
+REIN-H-078,HIGH,Ungeziefer durch Verschmutzung in Hof,Aufgrund von Abfällen wurden Fluchtweg ist beeinträchtigt im Bereich Hof gesichtet.,"Ungeziefer durch Verschmutzung in Hof
+Aufgrund von Abfällen wurden Fluchtweg ist beeinträchtigt im Bereich Hof gesichtet.",Reinigung
+TF-H-042,HIGH,Tür schließt wegen Verzug nicht,Die Tür schließt wegen Verzug nicht mehr.,"Tür schließt wegen Verzug nicht
+Die Tür schließt wegen Verzug nicht mehr.",Türen/Fenster
+E-L-018,LOW,Leuchtmittel im Flur alt,Ein Leuchtmittel im Flur wirkt veraltet.,"Leuchtmittel im Flur alt
+Ein Leuchtmittel im Flur wirkt veraltet.",Elektro
+A-M-080,MEDIUM,Aufzug zeigt wiederkehrenden Reset,Das Bedienpanel startet gelegentlich neu (Reset) und läuft danach weiter.,"Aufzug zeigt wiederkehrenden Reset
+Das Bedienpanel startet gelegentlich neu (Reset) und läuft danach weiter.",Aufzug
+BSCH-H-003,HIGH,Fehlender Rauchmelder im Schlafzimmer,Im Schlafzimmer ist kein Rauchmelder vorhanden – akute Sicherheitslücke.,"Fehlender Rauchmelder im Schlafzimmer
+Im Schlafzimmer ist kein Rauchmelder vorhanden – akute Sicherheitslücke.",Brandschutz
+SON-H-006,HIGH,Zentrale Steuerung reagiert nicht,Mehrere Systeme betroffen,"Zentrale Steuerung reagiert nicht
+Mehrere Systeme betroffen",Sonstige
+HM-039,MEDIUM,Wohnung bleibt kühl,Die gewünschte Raumtemperatur wird nicht erreicht.,"Wohnung bleibt kühl
+Die gewünschte Raumtemperatur wird nicht erreicht.",Heizung / Wärmeversorgung
+SON-M-018,MEDIUM,Monitoring zeigt sporadische Ausfälle,System läuft weiter,"Monitoring zeigt sporadische Ausfälle
+System läuft weiter",Sonstige
+SW-M-036,MEDIUM,Wasser bleibt in Dusche stehen,Abfluss nur teilweise frei.,"Wasser bleibt in Dusche stehen
+Abfluss nur teilweise frei.",Sanitär / Wasser
+E-M-063,MEDIUM,Steckdose im Keller locker,Eine Steckdose im Keller sitzt locker.,"Steckdose im Keller locker
+Eine Steckdose im Keller sitzt locker.",Elektro
+SM-L-033,LOW,Minimaler Schimmel am Raumecke-Rand,"Kleiner Schimmelpunkt im Raumecke, nur oberflächlich.","Minimaler Schimmel am Raumecke-Rand
+Kleiner Schimmelpunkt im Raumecke, nur oberflächlich.",Schimmel
+BS-M-073,MEDIUM,Leichte Deckenverfärbung mit Riss,An der Decke ist eine Verfärbung mit feinem Riss zu sehen.,"Leichte Deckenverfärbung mit Riss
+An der Decke ist eine Verfärbung mit feinem Riss zu sehen.",Bauliche Schäden
+BS-M-059,MEDIUM,Rissbildung Kellerboden,Der Kellerboden weist Risse auf,"Rissbildung Kellerboden
+Der Kellerboden weist Risse auf",Bauliche Schäden
+BSCH-M-047,MEDIUM,Fluchtwegmarkierung unklar – Bereich 7,Die Markierung des Fluchtwegs ist schlecht erkennbar. (Betroffen: Tiefgarage).,"Fluchtwegmarkierung unklar – Bereich 7
+Die Markierung des Fluchtwegs ist schlecht erkennbar. (Betroffen: Tiefgarage).",Brandschutz
+SW-M-077,MEDIUM,Warmwasser braucht ungewöhnlich lange,Verzögerung beim Start.,"Warmwasser braucht ungewöhnlich lange
+Verzögerung beim Start.",Sanitär / Wasser
+BS-M-012,MEDIUM,Leichte Deckenverformung,Die Decke im Flur wirkt leicht verformt,"Leichte Deckenverformung
+Die Decke im Flur wirkt leicht verformt",Bauliche Schäden
+BSCH-H-061,HIGH,Feuerlöscher abgelaufen/leer – Bereich 11,Der Feuerlöscher ist abgelaufen oder leer und damit unbrauchbar. (Betroffen: Gebäude).,"Feuerlöscher abgelaufen/leer – Bereich 11
+Der Feuerlöscher ist abgelaufen oder leer und damit unbrauchbar. (Betroffen: Gebäude).",Brandschutz
+REIN-L-036,LOW,Staub auf Oberflächen in Tiefgarage,Minimaler Reinigungsbedarf; geringer Aufwand.,"Staub auf Oberflächen in Tiefgarage
+Minimaler Reinigungsbedarf; geringer Aufwand.",Reinigung
+TF-M-018,MEDIUM,Tür schließt nur mit Nachdruck,Die Tür schließt nur mit Nachdruck.,"Tür schließt nur mit Nachdruck
+Die Tür schließt nur mit Nachdruck.",Türen/Fenster
+LAERM-M-026,MEDIUM,Brummen unter Wohnung,Unter der Wohnung ist ein Brummen hörbar,"Brummen unter Wohnung
+Unter der Wohnung ist ein Brummen hörbar",Lärm
+SM-M-055,MEDIUM,Schimmel an Sockelleiste im Flur,Schimmel an Fensterbereich im Flur festgestellt.,"Schimmel an Sockelleiste im Flur
+Schimmel an Fensterbereich im Flur festgestellt.",Schimmel
+LAERM-M-006,MEDIUM,Regelmäßiges Klopfen in Wand,In der Wand ist regelmäßig Klopfen zu hören,"Regelmäßiges Klopfen in Wand
+In der Wand ist regelmäßig Klopfen zu hören",Lärm
+E-H-021,HIGH,Kein Strom für Heizungssteuerung,Die Heizungssteuerung hat keinen Strom mehr.,"Kein Strom für Heizungssteuerung
+Die Heizungssteuerung hat keinen Strom mehr.",Elektro
+E-M-054,MEDIUM,Licht im Hausflur teilweise defekt,Ein Teil der Hausflurbeleuchtung ist ausgefallen.,"Licht im Hausflur teilweise defekt
+Ein Teil der Hausflurbeleuchtung ist ausgefallen.",Elektro
+AUSSEN-M-006,MEDIUM,Abgenutzte Markierungen,Parkplatzmarkierungen kaum sichtbar,"Abgenutzte Markierungen
+Parkplatzmarkierungen kaum sichtbar",Außenbereich
+SM-H-006,HIGH,Großflächiger Schimmelbefall im Dachgeschoss,Schimmel breitet sich schnell aus; Gesundheitsrisiko im Dachgeschoss.,"Großflächiger Schimmelbefall im Dachgeschoss
+Schimmel breitet sich schnell aus; Gesundheitsrisiko im Dachgeschoss.",Schimmel
+SM-H-059,HIGH,Großflächiger Schimmelbefall im Bad,Schimmel breitet sich schnell aus; Gesundheitsrisiko im Bad.,"Großflächiger Schimmelbefall im Bad
+Schimmel breitet sich schnell aus; Gesundheitsrisiko im Bad.",Schimmel
+SON-H-081,HIGH,Digitale Zugangshistorie nicht verfügbar,Sicherheitsnachweis fehlt,"Digitale Zugangshistorie nicht verfügbar
+Sicherheitsnachweis fehlt",Sonstige
+BSCH-H-025,HIGH,Brandlast im Treppenhaus,Brennbare Gegenstände/Möbel erhöhen die Brandlast im Treppenhaus.,"Brandlast im Treppenhaus
+Brennbare Gegenstände/Möbel erhöhen die Brandlast im Treppenhaus.",Brandschutz
+BS-M-009,MEDIUM,Kleine Risse im Treppenhaus,Im Treppenhaus sind kleinere Risse an der Wand,"Kleine Risse im Treppenhaus
+Im Treppenhaus sind kleinere Risse an der Wand",Bauliche Schäden
+SM-M-053,MEDIUM,Schimmel an Sockelleiste im Bad,"Schimmel an Sockelleiste im Bad, noch nicht großflächig.","Schimmel an Sockelleiste im Bad
+Schimmel an Sockelleiste im Bad, noch nicht großflächig.",Schimmel
+BSCH-H-073,HIGH,Feuerlöscher fehlt – Bereich 23,Am vorgesehenen Standort fehlt ein Feuerlöscher vollständig. (Betroffen: Dachboden).,"Feuerlöscher fehlt – Bereich 23
+Am vorgesehenen Standort fehlt ein Feuerlöscher vollständig. (Betroffen: Dachboden).",Brandschutz
+BSCH-H-070,HIGH,Brandschutztür schließt nicht – Bereich 20,Die Brandschutztür schließt nicht selbstständig und bleibt offen stehen. (Betroffen: Tiefgarage).,"Brandschutztür schließt nicht – Bereich 20
+Die Brandschutztür schließt nicht selbstständig und bleibt offen stehen. (Betroffen: Tiefgarage).",Brandschutz
+HL-032,LOW,Warmwasserleistung leicht eingeschränkt,Die Menge ist minimal reduziert.,"Warmwasserleistung leicht eingeschränkt
+Die Menge ist minimal reduziert.",Heizung / Wärmeversorgung
+BSCH-L-021,LOW,Feuerlöscher optisch abgenutzt – Bereich 1,"Der Feuerlöscher zeigt Gebrauchsspuren, Funktion unklar. (Betroffen: Tiefgarage).","Feuerlöscher optisch abgenutzt – Bereich 1
+Der Feuerlöscher zeigt Gebrauchsspuren, Funktion unklar. (Betroffen: Tiefgarage).",Brandschutz
+TF-M-061,MEDIUM,Tür quietscht gelegentlich,Die Tür quietscht gelegentlich.,"Tür quietscht gelegentlich
+Die Tür quietscht gelegentlich.",Türen/Fenster
+A-M-061,MEDIUM,Aufzugtür schließt zu schnell,Die Türen schließen ungewöhnlich schnell und wirken unsicher.,"Aufzugtür schließt zu schnell
+Die Türen schließen ungewöhnlich schnell und wirken unsicher.",Aufzug
+BSCH-M-032,MEDIUM,Notbeleuchtung sehr dunkel,"Die Notbeleuchtung ist ungewöhnlich dunkel, Austausch notwendig.","Notbeleuchtung sehr dunkel
+Die Notbeleuchtung ist ungewöhnlich dunkel, Austausch notwendig.",Brandschutz
+E-L-013,LOW,Lichtfarbe uneinheitlich,Die Lichtfarbe passt nicht zu anderen Lampen.,"Lichtfarbe uneinheitlich
+Die Lichtfarbe passt nicht zu anderen Lampen.",Elektro
+BS-L-002,LOW,Kleine Putzunebenheit,Der Putz weist eine kleine Unebenheit auf,"Kleine Putzunebenheit
+Der Putz weist eine kleine Unebenheit auf",Bauliche Schäden
+AUSSEN-H-069,HIGH,Außenlampe mit offenem Kabel,An einer Außenleuchte hängt ein offenes Kabel herunter.,"Außenlampe mit offenem Kabel
+An einer Außenleuchte hängt ein offenes Kabel herunter.",Außenbereich
+A-L-029,LOW,Aufzugtür schließt ruckartig,Die Tür schließt leicht ruckartig.,"Aufzugtür schließt ruckartig
+Die Tür schließt leicht ruckartig.",Aufzug
+LAERM-M-047,MEDIUM,Lautes Klacken von Anlage,Eine Anlage klackt hörbar,"Lautes Klacken von Anlage
+Eine Anlage klackt hörbar",Lärm
+LAERM-M-032,MEDIUM,Regelmäßiges Rattern,Ein Rattern tritt regelmäßig auf,"Regelmäßiges Rattern
+Ein Rattern tritt regelmäßig auf",Lärm
+AUSSEN-M-001,MEDIUM,Riss im Gehweg,Feiner Riss im Gehweg erkennbar,"Riss im Gehweg
+Feiner Riss im Gehweg erkennbar",Außenbereich
+LAERM-H-057,HIGH,Extrem lautes Klappern,Ein starkes Klappern ist ständig hörbar,"Extrem lautes Klappern
+Ein starkes Klappern ist ständig hörbar",Lärm
+TF-H-082,HIGH,Fensterrahmen instabil,Der Fensterrahmen ist instabil.,"Fensterrahmen instabil
+Der Fensterrahmen ist instabil.",Türen/Fenster
+E-L-032,LOW,Lampe im Abstellraum alt,Die Lampe im Abstellraum ist veraltet.,"Lampe im Abstellraum alt
+Die Lampe im Abstellraum ist veraltet.",Elektro
+TF-H-033,HIGH,Türrahmen gebrochen,Der Türrahmen ist gebrochen.,"Türrahmen gebrochen
+Der Türrahmen ist gebrochen.",Türen/Fenster
+SON-M-034,MEDIUM,Notstromtest überfällig,Wartung erforderlich,"Notstromtest überfällig
+Wartung erforderlich",Sonstige
+A-H-074,HIGH,Aufzug stoppt mitten in der Fahrt,Der Aufzug stoppt mitten in der Fahrt.,"Aufzug stoppt mitten in der Fahrt
+Der Aufzug stoppt mitten in der Fahrt.",Aufzug
+HM-072,MEDIUM,Warmwasser nur mäßig heiß,Die Temperatur ist niedriger als gewohnt.,"Warmwasser nur mäßig heiß
+Die Temperatur ist niedriger als gewohnt.",Heizung / Wärmeversorgung
+LAERM-L-007,LOW,Leichte Geräusche aus Nebenraum,Kaum wahrnehmbare Geräusche,"Leichte Geräusche aus Nebenraum
+Kaum wahrnehmbare Geräusche",Lärm
+SM-H-043,HIGH,Großflächiger Schimmelbefall im Kinderzimmer,Schimmel breitet sich schnell aus; Gesundheitsrisiko im Kinderzimmer.,"Großflächiger Schimmelbefall im Kinderzimmer
+Schimmel breitet sich schnell aus; Gesundheitsrisiko im Kinderzimmer.",Schimmel
+REIN-H-056,HIGH,Rutschgefahr durch ölig in Technikraum,Boden ist ölig und rutschig; Unfallgefahr.,"Rutschgefahr durch ölig in Technikraum
+Boden ist ölig und rutschig; Unfallgefahr.",Reinigung
+TF-L-022,LOW,Fensterrahmen ungleichmäßig lackiert,Der Fensterrahmen ist ungleichmäßig lackiert.,"Fensterrahmen ungleichmäßig lackiert
+Der Fensterrahmen ist ungleichmäßig lackiert.",Türen/Fenster
+LAERM-H-019,HIGH,Heftiges Rattern in der Wand,Sehr lautes Rattern aus der Wand,"Heftiges Rattern in der Wand
+Sehr lautes Rattern aus der Wand",Lärm
+BS-M-064,MEDIUM,Setzriss an Wand Schlafzimmer,Ein Setzriss ist an der Schlafzimmerwand erkennbar und sollte geprüft werden.,"Setzriss an Wand Schlafzimmer
+Ein Setzriss ist an der Schlafzimmerwand erkennbar und sollte geprüft werden.",Bauliche Schäden
+REIN-M-032,MEDIUM,Leichte Geruchsbelästigung in Gebäude,"Geruch wahrnehmbar, vermutlich durch Schmutz; Staub auf Oberflächen.","Leichte Geruchsbelästigung in Gebäude
+Geruch wahrnehmbar, vermutlich durch Schmutz; Staub auf Oberflächen.",Reinigung
+REIN-L-012,LOW,Leichte Schlieren in Hof,Schlieren kaum sichtbar; keine Beeinträchtigung.,"Leichte Schlieren in Hof
+Schlieren kaum sichtbar; keine Beeinträchtigung.",Reinigung
+LAERM-H-078,HIGH,Massive Körperschall-Vibrationen,Starke Vibrationen mit lautem Brummen übertragen sich durch Wände und Boden.,"Massive Körperschall-Vibrationen
+Starke Vibrationen mit lautem Brummen übertragen sich durch Wände und Boden.",Lärm
+TF-L-010,LOW,Fensterrahmen stumpf,Der Fensterrahmen wirkt stumpf.,"Fensterrahmen stumpf
+Der Fensterrahmen wirkt stumpf.",Türen/Fenster
+BS-H-001,HIGH,Riss in tragender Wand,In der Wohnzimmerwand hat sich ein breiter Riss gebildet der sich über mehrere Meter erstreckt,"Riss in tragender Wand
+In der Wohnzimmerwand hat sich ein breiter Riss gebildet der sich über mehrere Meter erstreckt",Bauliche Schäden
+SM-H-053,HIGH,Schimmelgeruch und Befall im Bad,Nach Wassereintritt hat sich starker Schimmel im Bad gebildet.,"Schimmelgeruch und Befall im Bad
+Nach Wassereintritt hat sich starker Schimmel im Bad gebildet.",Schimmel
+REIN-H-090,HIGH,Unrat/Abfall in Flur,Müll/Unrat liegt im Flur und verursacht starker Gestank.,"Unrat/Abfall in Flur
+Müll/Unrat liegt im Flur und verursacht starker Gestank.",Reinigung
+AUSSEN-H-009,HIGH,Freiliegende Stromleitung,Kabel liegt offen im Außenbereich,"Freiliegende Stromleitung
+Kabel liegt offen im Außenbereich",Außenbereich
+BSCH-H-069,HIGH,Rauchmelder defekt in Wohnung – Bereich 19,Der Rauchmelder in der Wohnung reagiert nicht und muss sofort ersetzt werden. (Betroffen: Dachboden).,"Rauchmelder defekt in Wohnung – Bereich 19
+Der Rauchmelder in der Wohnung reagiert nicht und muss sofort ersetzt werden. (Betroffen: Dachboden).",Brandschutz
+A-L-006,LOW,Aufzugbeleuchtung etwas dunkel,Die Beleuchtung im Aufzug ist etwas dunkel.,"Aufzugbeleuchtung etwas dunkel
+Die Beleuchtung im Aufzug ist etwas dunkel.",Aufzug
+E-L-050,LOW,Steckdose ohne Abdeckung,Eine Steckdose ist ohne Abdeckung.,"Steckdose ohne Abdeckung
+Eine Steckdose ist ohne Abdeckung.",Elektro
+E-M-002,MEDIUM,Licht im Flur ausgefallen,Die Beleuchtung im Hausflur ist ausgefallen.,"Licht im Flur ausgefallen
+Die Beleuchtung im Hausflur ist ausgefallen.",Elektro
+E-H-026,HIGH,Flackerndes Licht mit Knall,Licht flackert stark und es sind Knallgeräusche hörbar.,"Flackerndes Licht mit Knall
+Licht flackert stark und es sind Knallgeräusche hörbar.",Elektro
+REIN-M-068,MEDIUM,Verschmutzte Kontaktflächen in Außenbereich,Handläufe/Griffe/Schalter fleckig; hygienisch unangenehm.,"Verschmutzte Kontaktflächen in Außenbereich
+Handläufe/Griffe/Schalter fleckig; hygienisch unangenehm.",Reinigung
+HM-027,MEDIUM,Heizung ungleichmäßig im Gebäude,Unterschiedliche Wohnungen haben unterschiedliche Heizleistung.,"Heizung ungleichmäßig im Gebäude
+Unterschiedliche Wohnungen haben unterschiedliche Heizleistung.",Heizung / Wärmeversorgung
+SON-H-022,HIGH,Sicherheitszentrale nicht erreichbar,Keine Reaktion auf Alarme,"Sicherheitszentrale nicht erreichbar
+Keine Reaktion auf Alarme",Sonstige
+AUSSEN-M-080,MEDIUM,Abdeckung an Leuchte beschädigt,"Abdeckung einer Leuchte ist beschädigt, Licht streut ungleichmäßig.","Abdeckung an Leuchte beschädigt
+Abdeckung einer Leuchte ist beschädigt, Licht streut ungleichmäßig.",Außenbereich
+TF-L-015,LOW,Türschloss optisch abgenutzt,Das Türschloss ist optisch abgenutzt.,"Türschloss optisch abgenutzt
+Das Türschloss ist optisch abgenutzt.",Türen/Fenster
+BS-M-002,MEDIUM,Leichte Setzrisse im Flur,Im Flur sind kleine Setzrisse an der Wand erkennbar,"Leichte Setzrisse im Flur
+Im Flur sind kleine Setzrisse an der Wand erkennbar",Bauliche Schäden
+REIN-M-079,MEDIUM,Leichte Geruchsbelästigung in Technikraum,"Geruch wahrnehmbar, vermutlich durch Schmutz; Reinigungsrückstände.","Leichte Geruchsbelästigung in Technikraum
+Geruch wahrnehmbar, vermutlich durch Schmutz; Reinigungsrückstände.",Reinigung
+BS-L-009,LOW,Feine Risse Balkonwand,An der Balkonwand sind minimale Risse sichtbar,"Feine Risse Balkonwand
+An der Balkonwand sind minimale Risse sichtbar",Bauliche Schäden
+A-M-065,MEDIUM,Aufzugtür schließt nicht beim ersten Versuch,Die Tür schließt erst nach mehreren Versuchen vollständig.,"Aufzugtür schließt nicht beim ersten Versuch
+Die Tür schließt erst nach mehreren Versuchen vollständig.",Aufzug
+REIN-H-067,HIGH,Starke Verschmutzung Gemeinschaftszone,Bereich stark verschmutzt; Fäkalien/Erbrochenes vorhanden.,"Starke Verschmutzung Gemeinschaftszone
+Bereich stark verschmutzt; Fäkalien/Erbrochenes vorhanden.",Reinigung
+HL-025,LOW,Heizung arbeitet hörbar,Leise Betriebsgeräusche sind wahrnehmbar.,"Heizung arbeitet hörbar
+Leise Betriebsgeräusche sind wahrnehmbar.",Heizung / Wärmeversorgung
+E-M-006,MEDIUM,Steckdose locker,Eine Steckdose sitzt locker in der Wand.,"Steckdose locker
+Eine Steckdose sitzt locker in der Wand.",Elektro
+TF-M-077,MEDIUM,Tür schleift leicht am Boden,Die Tür schleift leicht am Boden.,"Tür schleift leicht am Boden
+Die Tür schleift leicht am Boden.",Türen/Fenster
+SON-H-055,HIGH,Sicherheitszentrale ohne Stromversorgung,Alarmmanagement ausgefallen,"Sicherheitszentrale ohne Stromversorgung
+Alarmmanagement ausgefallen",Sonstige
+REIN-M-048,MEDIUM,Unordnung im Gemeinschaftsfläche,Bereich wirkt ungepflegt; Flecken sichtbar.,"Unordnung im Gemeinschaftsfläche
+Bereich wirkt ungepflegt; Flecken sichtbar.",Reinigung
+TF-M-024,MEDIUM,Balkontür zieht,Durch die Balkontür zieht es.,"Balkontür zieht
+Durch die Balkontür zieht es.",Türen/Fenster
+AUSSEN-M-073,MEDIUM,Zaunpfosten wackelt,Ein Zaunpfosten wackelt und muss befestigt werden.,"Zaunpfosten wackelt
+Ein Zaunpfosten wackelt und muss befestigt werden.",Außenbereich
+AUSSEN-M-014,MEDIUM,Leicht beschädigte Bordsteinkante,Kante bröckelt,"Leicht beschädigte Bordsteinkante
+Kante bröckelt",Außenbereich
+TF-M-046,MEDIUM,Fenster klappert bei Zugluft,Das Fenster klappert bei Zugluft.,"Fenster klappert bei Zugluft
+Das Fenster klappert bei Zugluft.",Türen/Fenster
+AUSSEN-L-034,LOW,Kleine Kratzer am Geländer,Oberflächliche Kratzer am Außengeländer.,"Kleine Kratzer am Geländer
+Oberflächliche Kratzer am Außengeländer.",Außenbereich
+AUSSEN-L-019,LOW,Leichte Verschmutzung an Geländer,Geländer staubig,"Leichte Verschmutzung an Geländer
+Geländer staubig",Außenbereich
+REIN-H-043,HIGH,Ungeziefer durch Verschmutzung in Gebäude,Aufgrund von Abfällen wurden Öl-/Chemiespur im Bereich Gebäude gesichtet.,"Ungeziefer durch Verschmutzung in Gebäude
+Aufgrund von Abfällen wurden Öl-/Chemiespur im Bereich Gebäude gesichtet.",Reinigung
+SON-H-068,HIGH,Alarmsteuerung reagiert verzögert,Warnung zu spät,"Alarmsteuerung reagiert verzögert
+Warnung zu spät",Sonstige

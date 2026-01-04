@@ -28,7 +28,7 @@ ALLOWED_LABELS = ["HIGH", "MEDIUM", "LOW"]
 
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 TEMPERATURE = float(os.getenv("OPENAI_TEMPERATURE", "0"))
-MAX_CALLS = int(os.getenv("OPENAI_MAX_CALLS", "300"))
+MAX_CALLS = int(os.getenv("OPENAI_MAX_CALLS", "516"))
 
 
 def build_text(row: pd.Series) -> str:

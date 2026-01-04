@@ -1,6 +1,6 @@
 {
   "modelVersion": "openai-gpt4o-mini-v1",
-  "trainedAt": "2026-01-04T13:56:35.311464+00:00",
+  "trainedAt": "2026-01-04T14:16:30.919300+00:00",
   "dataPath": "/Applications/Projects/remsfal-prioritization-service/remsfal-prioritization-service/untitled/app/data/train.csv",
   "rowsTotal": 2580,
   "split": {
@@ -8,37 +8,37 @@
     "test": 516
   },
   "metrics": {
-    "accuracy": 0.83,
-    "f1_macro": 0.8163962203104757
+    "accuracy": 0.7926356589147286,
+    "f1_macro": 0.7777887994190946
   },
   "per_class": {
     "HIGH": {
-      "f1": 0.9051094890510949,
-      "precision": 0.8671328671328671,
-      "recall": 0.9465648854961832
+      "f1": 0.8903508771929824,
+      "precision": 0.8458333333333333,
+      "recall": 0.9398148148148148
     },
     "MEDIUM": {
-      "f1": 0.711864406779661,
-      "precision": 0.8076923076923077,
-      "recall": 0.6363636363636364
+      "f1": 0.6787878787878788,
+      "precision": 0.7777777777777778,
+      "recall": 0.6021505376344086
     },
     "LOW": {
-      "f1": 0.8322147651006712,
-      "precision": 0.7848101265822784,
-      "recall": 0.8857142857142857
+      "f1": 0.7642276422764228,
+      "precision": 0.7121212121212122,
+      "recall": 0.8245614035087719
     }
   },
   "latency_model_only": {
-    "p50_ms": 991.87827098649,
-    "p95_ms": 1930.7572505320422,
-    "p99_ms": 2539.1895644180454,
-    "mean_ms": 1082.706208647384,
-    "n": 300
+    "p50_ms": 999.8277500271797,
+    "p95_ms": 1486.0050833085552,
+    "p99_ms": 2325.8488453575455,
+    "mean_ms": 1054.8862618165876,
+    "n": 516
   },
   "openai": {
     "model": "gpt-4o-mini",
     "temperature": 0.0,
-    "calls": 300,
-    "mean_confidence": 0.8501666666666668
+    "calls": 516,
+    "mean_confidence": 0.8469961240310077
   }
 }

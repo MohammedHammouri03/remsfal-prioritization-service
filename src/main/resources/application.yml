@@ -6,7 +6,7 @@ spring:
     bootstrap-servers: ${KAFKA_BOOTSTRAP_SERVERS:localhost:39092}
 
     consumer:
-      group-id: ${CONSUMER_GROUP:remsfal-prioritization-service}
+      group-id: ${KAFKA_CONSUMER_GROUP:remsfal-prioritization-service}
       auto-offset-reset: earliest
       key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
       value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
@@ -20,12 +20,15 @@ spring:
 remsfal:
   kafka:
     topics:
-      in: ${TOPIC_IN:tickets.incoming}
-      out: ${TOPIC_OUT:tickets.prioritized}
+      in: ${KAFKA_TOPIC_IN:tickets.incoming}
+      out: ${KAFKA_TOPIC_OUT:tickets.prioritized}
+
   prioritization:
-    strategy: ${PRIO_STRATEGY:baseline}  # stub | baseline | xlmr | openai
+    # strategy steuert, welche Modellvariante genutzt wird:
+    # stub | baseline | xlmr | openai
+    strategy: ${PRIO_STRATEGY:baseline}
+
     inference:
       base-url: ${INFERENCE_BASE_URL:http://localhost:8000}
       timeout-ms: ${INFERENCE_TIMEOUT_MS:3000}
       retries: ${INFERENCE_RETRIES:0}
-      api-key: ${INFERENCE_API_KEY:}

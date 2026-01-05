@@ -24,9 +24,7 @@ public class HttpInferenceClassifier implements ClassifierStrategy {
 
     @Override
     public ClassificationResult predict(String text) {
-        // text kommt aktuell nur als description rein.
-        // Wir lassen es kompatibel, aber in Step 5 ändern wir den Consumer auf title+desc (fair).
-        String title = ""; // fallback
+        String title = "";
         String description = text == null ? "" : text;
 
         String endpoint = mapProviderToEndpoint(cfg.getProvider());

@@ -29,12 +29,10 @@ public class HttpInferenceClassifier implements ClassifierStrategy {
 
         String endpoint = mapProviderToEndpoint(cfg.getProvider());
 
-        PredictRequest req = new PredictRequest(safeTitle, safeDesc);
-
         PredictResponse resp = webClient.post()
                 .uri(endpoint)
                 .contentType(MediaType.APPLICATION_JSON)
-                .bodyValue(req)
+                .bodyValue(new PredictRequest(safeTitle, safeDesc))
                 .retrieve()
                 .bodyToMono(PredictResponse.class)
                 .timeout(Duration.ofMillis(cfg.getTimeoutMs()))

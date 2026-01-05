@@ -1,10 +1,10 @@
 from fastapi import FastAPI, HTTPException
 from contextlib import asynccontextmanager
 
-from app.schemas import PredictRequest, PredictResponse
-from app.baseline.predictor import BaselinePredictor
-from app.xlmr.predictor import XlmrPredictor
-from app.openai_model.predictor import OpenAIPredictor
+from schemas import PredictRequest, PredictResponse
+from baseline.predictor import BaselinePredictor
+from xlmr.predictor import XlmrPredictor
+from openai_model.predictor import OpenAIPredictor
 
 
 import logging

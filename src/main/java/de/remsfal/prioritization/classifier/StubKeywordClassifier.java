@@ -1,8 +1,10 @@
 package de.remsfal.prioritization.classifier;
 
+import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.stereotype.Component;
 
 @Component
+@ConditionalOnProperty(name = "remsfal.classifier.mode", havingValue = "stub", matchIfMissing = true)
 public class StubKeywordClassifier implements ClassifierStrategy {
 
     @Override

@@ -4,6 +4,9 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@EnableConfigurationProperties(KafkaTopicsConfig.class)
+@EnableConfigurationProperties({
+        KafkaTopicsConfig.class,
+        InferenceConfig.class
+})
 public class AppConfig {
 }

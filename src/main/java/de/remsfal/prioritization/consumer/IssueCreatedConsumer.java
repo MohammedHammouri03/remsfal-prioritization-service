@@ -50,7 +50,12 @@ public class IssueCreatedConsumer {
             validator.validate(event);
 
 
-            ClassificationResult result = classifier.predict(event.getDescription());
+            String title = event.getTitle() == null ? "" : event.getTitle().trim();
+            String desc  = event.getDescription() == null ? "" : event.getDescription().trim();
+            String text  = (title + "\n" + desc).trim();
+
+            ClassificationResult result = classifier.predict(text);
+
 
 
             IssuePriorityResultEvent out = new IssuePriorityResultEvent();

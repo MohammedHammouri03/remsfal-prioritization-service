@@ -16,8 +16,16 @@ spring:
       value-serializer: org.apache.kafka.common.serialization.StringSerializer
       acks: all
 
+
 remsfal:
   kafka:
     topics:
       in: ${TOPIC_IN:tickets.incoming}
       out: ${TOPIC_OUT:tickets.prioritized}
+  prioritization:
+    strategy: ${PRIO_STRATEGY:baseline}  # stub | baseline | xlmr | openai
+    inference:
+      base-url: ${INFERENCE_BASE_URL:http://localhost:8000}
+      timeout-ms: ${INFERENCE_TIMEOUT_MS:3000}
+      retries: ${INFERENCE_RETRIES:0}
+      api-key: ${INFERENCE_API_KEY:}

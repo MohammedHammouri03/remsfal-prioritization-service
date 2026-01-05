@@ -10,3 +10,4 @@ torch
 transformers
 tokenizers
 safetensors
+openai==1.57.0

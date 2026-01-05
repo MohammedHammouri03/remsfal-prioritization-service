@@ -8,10 +8,11 @@ import org.springframework.stereotype.Component;
 public class StubKeywordClassifier implements ClassifierStrategy {
 
     @Override
-    public ClassificationResult predict(String text) {
-        String lower = text == null ? "" : text.toLowerCase();
+    public ClassificationResult predict(String title, String description) {
+        String t = title == null ? "" : title;
+        String d = description == null ? "" : description;
+        String lower = (t + " " + d).toLowerCase();
 
-        // simple Heuristik nur für Pipeline-Test
         if (lower.contains("wasser") || lower.contains("brand") || lower.contains("notfall") || lower.contains("strom")) {
             return new ClassificationResult("HIGH", 0.90, "stub-keyword-v1");
         }

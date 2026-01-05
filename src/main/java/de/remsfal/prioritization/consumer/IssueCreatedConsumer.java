@@ -51,11 +51,9 @@ public class IssueCreatedConsumer {
 
 
             String title = event.getTitle() == null ? "" : event.getTitle().trim();
-            String desc  = event.getDescription() == null ? "" : event.getDescription().trim();
-            String text  = (title + "\n" + desc).trim();
+            String description  = event.getDescription() == null ? "" : event.getDescription().trim();
 
-            ClassificationResult result = classifier.predict(text);
-
+            ClassificationResult result = classifier.predict(title, description);
 
 
             IssuePriorityResultEvent out = new IssuePriorityResultEvent();

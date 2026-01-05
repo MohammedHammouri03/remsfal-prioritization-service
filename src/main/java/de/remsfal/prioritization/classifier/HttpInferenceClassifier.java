@@ -23,16 +23,18 @@ public class HttpInferenceClassifier implements ClassifierStrategy {
     }
 
     @Override
-    public ClassificationResult predict(String text) {
-        String title = "";
-        String description = text == null ? "" : text;
+    public ClassificationResult predict(String title, String description) {
+        String safeTitle = (title == null || title.isBlank()) ? "Issue" : title.trim();
+        String safeDesc  = (description == null) ? "" : description.trim();
 
         String endpoint = mapProviderToEndpoint(cfg.getProvider());
+
+        PredictRequest req = new PredictRequest(safeTitle, safeDesc);
 
         PredictResponse resp = webClient.post()
                 .uri(endpoint)
                 .contentType(MediaType.APPLICATION_JSON)
-                .bodyValue(new PredictRequest(title, description))
+                .bodyValue(req)
                 .retrieve()
                 .bodyToMono(PredictResponse.class)
                 .timeout(Duration.ofMillis(cfg.getTimeoutMs()))
@@ -42,12 +44,9 @@ public class HttpInferenceClassifier implements ClassifierStrategy {
             return new ClassificationResult("MEDIUM", 0.0, "inference-null");
         }
 
-        return new ClassificationResult(
-                resp.priority(),
-                resp.score(),
-                resp.modelVersion()
-        );
+        return new ClassificationResult(resp.priority(), resp.score(), resp.modelVersion());
     }
+
 
     private String mapProviderToEndpoint(String provider) {
         if (provider == null) return "/predict/baseline";

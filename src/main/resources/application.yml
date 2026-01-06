@@ -16,19 +16,18 @@ spring:
       value-serializer: org.apache.kafka.common.serialization.StringSerializer
       acks: all
 
-
 remsfal:
   kafka:
     topics:
       in: ${KAFKA_TOPIC_IN:tickets.incoming}
       out: ${KAFKA_TOPIC_OUT:tickets.prioritized}
 
-  prioritization:
-    # strategy steuert, welche Modellvariante genutzt wird:
-    # stub | baseline | xlmr | openai
-    strategy: ${PRIO_STRATEGY:baseline}
+  classifier:
+    mode: ${REMSFAL_CLASSIFIER_MODE:inference}
 
-    inference:
-      base-url: ${INFERENCE_BASE_URL:http://localhost:8000}
-      timeout-ms: ${INFERENCE_TIMEOUT_MS:3000}
-      retries: ${INFERENCE_RETRIES:0}
+  inference:
+    base-url: ${REMSFAL_INFERENCE_BASE_URL:http://localhost:8000}
+
+    provider: ${REMSFAL_INFERENCE_PROVIDER:baseline}
+
+    timeout-ms: ${REMSFAL_INFERENCE_TIMEOUT_MS:3000}

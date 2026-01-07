@@ -8,6 +8,8 @@ services:
       - OPENAI_TEMPERATURE=0
     ports:
       - "8000:8000"
+    networks:
+      - remsfal_backend
 
   prioritization:
     build:
@@ -15,10 +17,17 @@ services:
     depends_on:
       - inference
     environment:
-      - KAFKA_BOOTSTRAP_SERVERS=${KAFKA_BOOTSTRAP_SERVERS}
+      - KAFKA_BOOTSTRAP_SERVERS=kafka-broker:9092
       - KAFKA_TOPIC_IN=tickets.incoming
       - KAFKA_TOPIC_OUT=tickets.prioritized
       - REMSFAL_CLASSIFIER_MODE=inference
       - REMSFAL_INFERENCE_PROVIDER=baseline
       - REMSFAL_INFERENCE_BASE_URL=http://inference:8000
       - REMSFAL_INFERENCE_TIMEOUT_MS=3000
+    networks:
+      - remsfal_backend
+
+networks:
+  remsfal_backend:
+    external: true
+    name: remsfal-backend_remsfal

@@ -9,13 +9,20 @@ services:
     ports:
       - "8000:8000"
     networks:
-      - remsfal_backend
+      - remsfal
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health').read()"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+      start_period: 10s
 
   prioritization:
     build:
       context: ../../..
     depends_on:
-      - inference
+      inference:
+        condition: service_healthy
     environment:
       - KAFKA_BOOTSTRAP_SERVERS=kafka-broker:9092
       - KAFKA_TOPIC_IN=tickets.incoming
@@ -25,9 +32,8 @@ services:
       - REMSFAL_INFERENCE_BASE_URL=http://inference:8000
       - REMSFAL_INFERENCE_TIMEOUT_MS=3000
     networks:
-      - remsfal_backend
+      - remsfal
 
 networks:
-  remsfal_backend:
-    external: true
-    name: remsfal-backend_remsfal
+  remsfal:
+    name: remsfal
